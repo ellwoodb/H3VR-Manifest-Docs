@@ -1,2 +1,2 @@
 # H3VR-Manifest-Docs
-Documentation for the H3VR Asset Manifests
+[WIKI](https://github.com/ellwoodb/H3VR-Manifest-Docs/wiki)
