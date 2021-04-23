@@ -1,0 +1,260 @@
+ManifestFileVersion: 0
+CRC: 1940236396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1961a9a52dcea6eaa521aa5618699719
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 229bdf87dad1d36787926b4554f95475
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a7b600081cb3554aa9f1b0e41f0a086, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5092ec00c3c37e848944b7b7e5e0418d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 895b46c0b4ce59d4d8cdba9ed460592e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed123f619b1cf5d4dbb4879246fb60bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f32d781b76ae444588664d28fa57d50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34142c81422399041b037781e79e55be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e59da9625e5c7da46a3ea4b6baa654c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6009f692b9c0cc043913aec2217f59c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85bc8a234ba0354e82d72ce5e8ea445, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aa19813aaf9e79439e165fecb9694cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17d86b13ee32f5e4fa6e3cb793810d5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 264ba3834a8220f48aefb4017b0cf368, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e7ed4830ada235439ca0c0c43f7f44a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0049093e2e2b2f4cb7428fe90e5c1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 499f8054cf3cab04cb10177979f6d68a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162ef8944c64ebb479a963cd9d78b2d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf52a4c42690f4d4b94f7eb4cb2c0932, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddb83ec4da00c42428e33d4f5c90da2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b175af41a70a5440b23364a81928f55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4479735fe994ab429f578cae9e36b80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51b21c5557da00948ae52ee8b369c3ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e056590682b3a1f4f86fc4d2f0b69595, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c8d3086eff080d428259ccf1943864a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbc706867a32fca4ca17060054ed7cb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8edb8637fafe06e4785113d74492fc4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a3d4808652a1fc4aa924d800e9cb0e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f0fc0481d7a5404ca285ff9ccb8ca30, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6c02a857bc22b40b381a71c6da0c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4c228f8ba1fcdd4eb4710e5795fbe7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53737e09b5c286541926514573119921, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e164c391f3af734aa615d179e8fb38f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0594d0f9efbc26245a6d4e0efa31b14e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f03edcf9df5804344a1e796e08b39f4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b77f300ad18e52a4dbcf290d82c6798f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef2e28db5a7ddd5469016c70dc4f74d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a6ba5c201b1ef438ce58b26d9b0c48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08db3c7c6f8a85343adc3cac51987c6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d597a28cde98883428ce100099ff6325, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b58049cdd9387c4d8dfce21b19cebde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad210b9c616b5bd40ac5cc7550f5a586, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74f33a1d7e6f5de4f84204223b32b3bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c055c53dfe6767a4083f6f75dead7398, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ded4a3dbec4b5041bf6bd3a74960041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddd0988d28278e6499db3ca85f76f97c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fc1e3ad3c3a9ec428936a664c493cca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a78f9fdda5c7b6f4ca6fafd4ed934af1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1581591ec4d0f66489accf5ffe7b7a71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bf1d15ea7876734b953200082e53a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b6a945ea7713634989c4e450d85c0a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9512f8ae21925c447a17c43e041a686a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eba5c5be0a8566c43ac3309f1e188836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e545eefb27fba42963787466892205, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 934a85ee2d7593548aea8df78cd4a4b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff75a6fe7d238504db5b6485e000af69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7262d1f57c74054d8d253a996e9ff1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a5a4af7f64bba0e41a0f06276ac697a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f8948cfef5132e4faaad67c0fa0e23c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+Assets:
+- Assets/Weaponry/ShotgunBreakAction/BreakActionShotgun12g_SuperShort.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/HKCAWS_Drum_20Rnd.prefab
+- Assets/Weaponry/ShotgunBreakAction/BreakActionShotgunTheOG.prefab
+- Assets/Weaponry/ShotgunMagFed/HKCAWS_TacMod.prefab
+- Assets/Weaponry/ShotgunMagFed/Saiga12k.prefab
+- Assets/Weaponry/ShotgunTubeFed/Magazines/CQB870_Magainze_6Round.prefab
+- Assets/Weaponry/ShotgunTubeFed/MCS870.prefab
+- Assets/Weaponry/ShotgunMagFed/Scalpel.prefab
+- Assets/Weaponry/ShotgunMagFed/MP203.prefab
+- Assets/Weaponry/Attachements/IronSights/ShotgunGlowSight_Front.prefab
+- Assets/Weaponry/ShotgunTubeFed/Mag7.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/HKCAWS_Magazine_10Rnd.prefab
+- Assets/Weaponry/ShotgunTubeFed/Auto5.prefab
+- Assets/Weaponry/ShotgunTubeFed/SjogrenShorty.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/USAS12_Drum_20Rnd.prefab
+- Assets/Weaponry/ShotgunMagFed/AA12.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/AA12_DrumMagazine.prefab
+- Assets/Weaponry/ShotgunBreakAction/IZH18_12g.prefab
+- Assets/Weaponry/Revolvers/MTS255_Shorty.prefab
+- Assets/Weaponry/ShotgunBreakAction/HammerlessLong.prefab
+- Assets/Weaponry/ShotgunTubeFed/KS23.prefab
+- Assets/Weaponry/ShotgunTubeFed/Magazines/Mag7_Magazine.prefab
+- Assets/Weaponry/ShotgunTubeFed/MB500Long.prefab
+- Assets/Weaponry/ShotgunTubeFed/MB590A1.prefab
+- Assets/Weaponry/ShotgunTubeFed/Spas12_Tactical.prefab
+- Assets/Weaponry/ShotgunBreakAction/Flaregun.prefab
+- Assets/Weaponry/ShotgunTubeFed/MB500Chopped.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/MK12_Magazine_5Rnd.prefab
+- Assets/Weaponry/ShotgunBreakAction/DoubleBarrel1882.prefab
+- Assets/Weaponry/ShotgunTubeFed/XM1014.prefab
+- Assets/Weaponry/ShotgunBreakAction/DT11.prefab
+- Assets/Weaponry/ShotgunTubeFed/MB500Shorty.prefab
+- Assets/Weaponry/ShotgunBreakAction/DT11_Short.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/Scalpel_DrumMagazine.prefab
+- Assets/Weaponry/ShotgunTubeFed/KSG.prefab
+- Assets/Weaponry/ShotgunBreakAction/BreakActionShotgun12g.prefab
+- Assets/Weaponry/ShotgunBreakAction/ThrowbackSingleShot_20g.prefab
+- Assets/Weaponry/Attachements/IronSights/ShotgunGlowSight_Rear.prefab
+- Assets/Weaponry/ShotgunMagFed/KWGShotgun.prefab
+- Assets/Weaponry/ShotgunTubeFed/FabarmMarshall.prefab
+- Assets/Weaponry/Attachements/IronSights/FabArm_BackSight.prefab
+- Assets/Weaponry/ShotgunBreakAction/IZH18_12gShort.prefab
+- Assets/Weaponry/Revolvers/MTS255.prefab
+- Assets/Weaponry/ShotgunBreakAction/ThrowbackSingleShot_12g.prefab
+- Assets/Weaponry/ShotgunTubeFed/M1897Trench.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/USAS12_Magazine_10Rnd.prefab
+- Assets/Weaponry/ShotgunTubeFed/Hammerless520Short.prefab
+- Assets/Weaponry/ShotgunTubeFed/M2Tactical.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/P6Twelve_Cylinder.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/KWG_Magazine.prefab
+- Assets/Weaponry/RifleBoltAction/Toz106.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_shotguns.asset
+- Assets/Weaponry/LeverAction/MartiniHenry.prefab
+- Assets/Weaponry/ShotgunBreakAction/Flaregun_HighPressure.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/Saiga12k_Magazine_5Rnd.prefab
+- Assets/Weaponry/ShotgunMagFed/PancorJackhammer.prefab
+- Assets/Weaponry/ShotgunTubeFed/T14Custom.prefab
+- Assets/Weaponry/ShotgunTubeFed/VT13Shorty.prefab
+- Assets/Weaponry/LeverAction/M1887_Long.prefab
+- Assets/Weaponry/ShotgunTubeFed/Hammerless520.prefab
+- Assets/Weaponry/ShotgunMagFed/MK12.prefab
+- Assets/Weaponry/ShotgunTubeFed/Spas12.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/Saiga12k_Magazine_20Rnd.prefab
+- Assets/Weaponry/ShotgunTubeFed/SuperShorty.prefab
+- Assets/Weaponry/ShotgunMagFed/HKCAWS.prefab
+- Assets/Weaponry/LeverAction/M1887_Short.prefab
+- Assets/Weaponry/ShotgunBreakAction/DT11_Chopped.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/Saiga12k_Magazine_12Rnd.prefab
+- Assets/Weaponry/ShotgunBreakAction/FourLetterWord.prefab
+- Assets/Weaponry/LeverAction/M1887_T2.prefab
+- Assets/Weaponry/ShotgunBreakAction/IZH18_20g.prefab
+- Assets/Weaponry/ShotgunTubeFed/SuperShortyTactical.prefab
+- Assets/Weaponry/ShotgunMagFed/MP155k.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/PancorJackhammer_Cylinder.prefab
+- Assets/Weaponry/ShotgunTubeFed/SjogrenInertial.prefab
+- Assets/Weaponry/ShotgunTubeFed/Magazines/CQB870_Magainze_12Round.prefab
+- Assets/Weaponry/ShotgunMagFed/P6Twelve.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/MK12_Magazine_10Rnd.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/AA12_Magazine.prefab
+- Assets/Weaponry/ShotgunTubeFed/M2ThreeGun.prefab
+- Assets/Weaponry/ShotgunTubeFed/CQB870.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/MP155k_Magazine_5Rnd.prefab
+- Assets/Weaponry/ShotgunMagFed/Magazines/MP203_Magazine.prefab
+- Assets/Weaponry/ShotgunMagFed/USAS12.prefab
+- Assets/Weaponry/ShotgunTubeFed/Express870.prefab
+- Assets/Weaponry/ShotgunBreakAction/Wells1864.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/Toz106_Magazine.prefab
+Dependencies: []

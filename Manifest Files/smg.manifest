@@ -1,0 +1,336 @@
+ManifestFileVersion: 0
+CRC: 3715187367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93a9c63ea3a46bb415da06a9ebba89ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae7e6637c369efb0fada889a4d3bc875
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5092ec00c3c37e848944b7b7e5e0418d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4494fb8050b3e8a4d89ed858a8e2e6a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 895b46c0b4ce59d4d8cdba9ed460592e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c7e86f0d34db524cbb3d26551907231, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34142c81422399041b037781e79e55be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 976828d11b8f07845af6c62e10c4b0e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19f11952c7165634ea3b7517476f611f, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6009f692b9c0cc043913aec2217f59c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b3c2a92b46f1b349b38e22407937eae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85bc8a234ba0354e82d72ce5e8ea445, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e7ed4830ada235439ca0c0c43f7f44a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0049093e2e2b2f4cb7428fe90e5c1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8ef18a3014da524fb9562fe83b726b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da87ada32d7e9854c9b9df8c6dff39eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 696482f3afcffde47adeae12b86fcf47, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162ef8944c64ebb479a963cd9d78b2d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf52a4c42690f4d4b94f7eb4cb2c0932, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a703e2538308bf4b8264c5c729ddbd3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e056590682b3a1f4f86fc4d2f0b69595, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb393416febbc074e847ed998aa75e3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e13ed666bcef6874386610d2ef878488, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbc706867a32fca4ca17060054ed7cb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543d5c072b63b4a47b687aafe4c29c86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a3d4808652a1fc4aa924d800e9cb0e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f0fc0481d7a5404ca285ff9ccb8ca30, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6c02a857bc22b40b381a71c6da0c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66b2e9b8ab97c214284e72c538572e8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4c228f8ba1fcdd4eb4710e5795fbe7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aadc4e79324be8f48bb90d5ce1d0ed22, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af337a89d3df4ef4fb98fca9281d4927, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 949a57b94f3ae09449ca7fbc8e9fc838, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0594d0f9efbc26245a6d4e0efa31b14e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b77f300ad18e52a4dbcf290d82c6798f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a80398a53e22214b91a18897a9cd6e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79cd5da6f0e04e4e8a49549c50f6f9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7ce54dce68d2cf4c9e6bf0081a68c9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efe457fcd8747b94abec8d2f6452f71e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74f33a1d7e6f5de4f84204223b32b3bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c055c53dfe6767a4083f6f75dead7398, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ded4a3dbec4b5041bf6bd3a74960041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddd0988d28278e6499db3ca85f76f97c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f01585dd3f73f4a45a4f6da375202377, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a78f9fdda5c7b6f4ca6fafd4ed934af1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bf1d15ea7876734b953200082e53a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b6a945ea7713634989c4e450d85c0a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9512f8ae21925c447a17c43e041a686a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e545eefb27fba42963787466892205, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e3af84f6e644534fa3b1516a0e53ed3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a5a4af7f64bba0e41a0f06276ac697a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f8948cfef5132e4faaad67c0fa0e23c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Weaponry/Handguns/Magazines/MicroUzi_Magazine_32rnd.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/M3_Magazine.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_PP2000.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Cobray.prefab
+- Assets/Weaponry/SMGClosedBolt/Mp9.prefab
+- Assets/Weaponry/SMGClosedBolt/pp19Bizon.prefab
+- Assets/Weaponry/SMGClosedBolt/Gepard.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Mp18_Magazine.prefab
+- Assets/Weaponry/Attachements/BarrelExtenders/Vector45Shroud.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Thompson30Carbine_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/pp2000_Magazine_44rnd.prefab
+- Assets/Weaponry/SMGClosedBolt/Mp7a1_HL.prefab
+- Assets/Weaponry/Attachements/Mp5/MP5KFore_Proto.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/UMP_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_SFA3.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/SP5k_A2.prefab
+- Assets/Weaponry/Attachements/Mp5/Mp5Fore_SlimLine.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/MP5-10_Magazine_30rnd_Straight.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Mac11_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/Type100.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/MP5_Magazine_15rnd_Straight.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/SP5k_A3.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_MP9.prefab
+- Assets/Weaponry/SMGOpenBolt/StenMk2.prefab
+- Assets/Weaponry/Attachements/Stocks/Prefabs/Stock_PP2000.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/Mp9_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5-10_A4.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/pp19Bizon_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/P90.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/StenMk2_Magazine_16rnd.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Mac10_Suppressor.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_A2.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/StenMk2_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5k_A2.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Model38_Magazine_20rnd.prefab
+- Assets/Weaponry/SMGOpenBolt/PPSh41.prefab
+- Assets/Weaponry/SMGOpenBolt/MPK.prefab
+- Assets/Weaponry/SMGOpenBolt/MP18.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_QC9.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_Wood.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/SP5k_Folding.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/SpectreM4_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/MP5_Magazine_30rnd_Curved.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5k.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_QC9.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_A5.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/ThompsonM1A1_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/Uzi_Compact.prefab
+- Assets/Weaponry/Handguns/Magazines/Tomacuzi_Drum.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_SD1.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/QC9_Magazine_Drum.prefab
+- Assets/Weaponry/Attachements/Mp5/Mp5Fore_Flashlight.prefab
+- Assets/Weaponry/SMGOpenBolt/Model38.prefab
+- Assets/Weaponry/Attachements/Mp5/Mp5Fore_Wood.prefab
+- Assets/Weaponry/SMGOpenBolt/MP34.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/AEK919k_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/Mac10.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/ThompsonMk2_Magazine.prefab
+- Assets/Weaponry/Attachements/AttachedWeapons/GP25_Picatinny.prefab
+- Assets/Weaponry/SMGOpenBolt/MP40.prefab
+- Assets/Weaponry/SMGOpenBolt/StenMk9ChopShop.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5k_PDW.prefab
+- Assets/Weaponry/SMGOpenBolt/ViperMk1.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_A1.prefab
+- Assets/Weaponry/SMGClosedBolt/QC9.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/StenMk5_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/M3GreaseGunSuppressed.prefab
+- Assets/Weaponry/SMGOpenBolt/Thompson30CarbineProto.prefab
+- Assets/Weaponry/SMGOpenBolt/ThompsonMk2.prefab
+- Assets/Weaponry/SMGClosedBolt/pp2000.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/CobrayM11_Magazine_16rnd.prefab
+- Assets/Weaponry/SMGOpenBolt/M3GreaseGun.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Gepard.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_SD4.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/MP40_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5-10_A5.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Blyskawica_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/Uzi.prefab
+- Assets/Weaponry/SMGClosedBolt/Tomacuzi.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/KP31_Drum.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Type100_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5-40_A5.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/Gepard_Magazine_40rnd.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Thompson_Drum_50Rnd.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_SD2.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Uzi.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/MP5_Magazine_30rnd_Straight.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/P90_Mag.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Mac10_Magazine.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_smg.asset
+- Assets/Weaponry/SMGOpenBolt/Magazines/MP34_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/StenMk6.prefab
+- Assets/Weaponry/SMGOpenBolt/ThompsonM1A1.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/CobrayM11_Magazine_72rndDrum.prefab
+- Assets/Weaponry/SMGOpenBolt/Agram2000.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/American180_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/SP5k.prefab
+- Assets/Weaponry/SMGClosedBolt/SpectreM4.prefab
+- Assets/Weaponry/Attachements/Mp5/MP5_PicatinnyMount.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_SD3.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_A3.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/PP91_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Mp18_Drum.prefab
+- Assets/Weaponry/SMGOpenBolt/MiniUzi.prefab
+- Assets/Weaponry/Attachements/AttachedWeapons/GP25_Classic.prefab
+- Assets/Weaponry/SMGOpenBolt/American90.prefab
+- Assets/Weaponry/SMGClosedBolt/Mp7a1.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/PPSh41_Magazine.prefab
+- Assets/Weaponry/Attachements/Stocks/Prefabs/Stock_Vector.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Model38_Magazine_10rnd.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Thompson_Drum_100Rnd.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/K50m_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/KrissVector45.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Agram2000_Magazine_32Rnd.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_SFA2.prefab
+- Assets/Weaponry/SMGOpenBolt/American180.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_SD5.prefab
+- Assets/Weaponry/SMGOpenBolt/StenMk5.prefab
+- Assets/Weaponry/SMGOpenBolt/ThompsonM1928.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5k_A3.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5k_N.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/MP5_Magazine_15rnd_Curved.prefab
+- Assets/Weaponry/SMGClosedBolt/UMP.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Agram2000_Magazine_15Rnd.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/Gepard_Magazine_20rnd.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/MPK_Magazine_32rnd.prefab
+- Assets/Weaponry/SMGOpenBolt/PPSh41_Modern.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5-40_A4.prefab
+- Assets/Weaponry/SMGClosedBolt/PP91.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_SD6.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/Handstop_QC9.prefab
+- Assets/Weaponry/SMGOpenBolt/Mac11.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/CobrayM11_Magazine_32rnd.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Thompson.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/QC9_Magazine_Waffle.prefab
+- Assets/Weaponry/SMGOpenBolt/CobrayM11.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/PPSh41_Drum.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5k_A4.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/Model38_Magazine_30rnd.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Mac10_Barrel_extension.prefab
+- Assets/Weaponry/Attachements/Mp5/Mp5Fore_RIS.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/PPSh41_TechDrum.prefab
+- Assets/Weaponry/SMGOpenBolt/Blyskawica.prefab
+- Assets/Weaponry/SMGClosedBolt/AEK919k.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/MP5-40_Magazine_30rnd_Straight.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/American90_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/QC9_Magazine_Standard.prefab
+- Assets/Weaponry/SMGOpenBolt/KP31.prefab
+- Assets/Weaponry/Attachements/Mp5/Mp5Fore_Vented.prefab
+- Assets/Weaponry/SMGClosedBolt/MP5s/MP5_A4.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/Mp7a1_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/MP5_Magazine_DoubleDrum.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_SR3M.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Vector45.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/KrissVector45_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/Magazines/ViperMk1_Magazine.prefab
+- Assets/Weaponry/SMGOpenBolt/K50m.prefab
+Dependencies: []

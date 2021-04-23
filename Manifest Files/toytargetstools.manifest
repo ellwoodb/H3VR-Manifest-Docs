@@ -1,0 +1,277 @@
+ManifestFileVersion: 0
+CRC: 3955193159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdeb1c580b464b577056cc71ae9d7a00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0082d5e510203306a8a70f3aa726b4db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a0db6606ead6774e91390a3ea045557, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d198f0706143fdb4a91acfcb16aa2ac3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 125785b0b9ce28e42bf0ac66b5c0d9f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86b7003130c68064ab39f66c017f1bd2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a65de841f226e2c4c9f09ddba8cceaa0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c08995c1ec2271745be8af39e8744e95, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 730812e1f4498dd468b6edfc8ccdc98a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06cb2de189795dc469ecbe100cbd9b30, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5dee9192b117b8045b5533c618159873, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab8350c275d41a04fb74bda385edb0ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1849e1c21aae7984a8a1378db1e7bcdd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afaafb2330fa68b45b1f25ba159f7f38, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0049093e2e2b2f4cb7428fe90e5c1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63ec34a336e2cd2448b6a4ef3bc5d31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c0eb8e3aa91faf41aa2a278f6ac3719, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43fb6df36db55a24584a5ca55eb825c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 029c5434e19c5f54f95affce8ca303cc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474dc834fd15fa4478cba8e9787dff14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dccc0d341856dd54aac28974eaaf9202, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb693544b61dc342b943b4bd324cdfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d3c82a42fe355d49b9576c65dc92634, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4786cbf495e057b4891f5c611aaa8a4b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44d0c845ef3841a4382ab19eeca367e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b3da4756680f194e804debd4639cd9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e13ed666bcef6874386610d2ef878488, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e3445d6e06c0714284bb474c830bf98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d11d74831854ab44b02c5b1f5d5a581, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31b2bf689eae7eb4ebdc0390fa52ab07, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7405ac85fd044f469eeedb36d865c3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efb492d80869bd54a8c2db0c5d5701af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7cf77e8360906a468833459d91ad2da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bfa34fb697797641b4170ebda9a16ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb4ea0cb5962bc4890032bbe020b31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e510435c6c4dec5409ec89f50b8151b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b415738c46f3c7f4c979c9e471a0b9dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd0edebcc32dca34bac198d692c0a1e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec69f6dcae1f7cc498bc77ecb7a684df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 792367ecc3875d6419f71819a7dc8b5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c93883d373b8f04ca5b83602477c4a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca22284d23646024093d7a9f9be9e132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3aa8dc4d8379e444a994f4a92f82b354, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e351e7d734a762489cdbb8116e740f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99abd7cdfec1229438ca0466377df824, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ae74dcd8b26f7741a1c0b8854c165d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 995239ed8e7027e4495ed1127a53d778, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6dd3c73e08804d6479954fcc66493a04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bf1d15ea7876734b953200082e53a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d65e486e4de6e5448a8fbb43dc8756a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cd5eabed2f19634cabcade7852ccd4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb630d4f1844ef04dbe6d6078eef2959, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fdb057fcff48e04aaeaa8cd3f7acfae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Bernard.prefab
+- Assets/VirtualObjects/CynicatPaperTargetSystem/ProfileRefs/PTargetRef_IPSCRifle.prefab
+- Assets/Environment/_SceneSpecific/RotWieners/Prefabs/Items/BaseBall.prefab
+- Assets/VirtualObjects/Targets/Prefab/Prefabs/Pumpkin.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Pig.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_AlThePaca.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/PeppermintCandy/PeppermintCandy.prefab
+- Assets/VirtualObjects/Targets/Prefab/ClayFlowerPot/ClayFlowerPot_Large.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_ChesterTheCactus.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Glurpy.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_FelicityFlamingo.prefab
+- Assets/VirtualObjects/CynicatPaperTargetSystem/ProfileRefs/PTargetRef_Splatter.prefab
+- Assets/VirtualObjects/Targets/Prefab/SodaCan/SodaCan.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/GumDrop_Green.prefab
+- Assets/VirtualObjects/HorseShoes/Prefabs/Horseshoe01b.prefab
+- Assets/VirtualObjects/Targets/Prefab/ClayPigeon/ClayPigeon_Regulation.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Lemon.prefab
+- Assets/VirtualObjects/Targets/Prefab/Prefabs/PumpkinTop.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_FrancisTheFartCloud.prefab
+- Assets/VirtualObjects/BangSnaps/Prefabs/Bangsnap.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Sheep.prefab
+- Assets/Environment/_SceneSpecific/RotWieners/Prefabs/Items/BookOfMoron.prefab
+- Assets/VirtualObjects/Camcorder/RailCamera.prefab
+- Assets/VirtualObjects/HorseShoes/Prefabs/Horseshoe01a.prefab
+- Assets/VirtualObjects/Flipzo/Prefabs/Flipzo.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_DarrenTheDeadFish.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Scooty/Scooty.prefab
+- Assets/VirtualObjects/TankFirework/Prefabs/TankFirework.prefab
+- Assets/VirtualObjects/RomanCandles/Prefabs/RomanCandle_2.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_CodyTheCowSkull.prefab
+- Assets/VirtualObjects/Pyro/Match/Prefabs/Match.prefab
+- Assets/VirtualObjects/RomanCandles/Prefabs/RomanCandle_1.prefab
+- Assets/VirtualObjects/BangSnaps/Prefabs/BangsnapBox.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_Ribot.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Javier.prefab
+- Assets/VirtualObjects/Targets/Prefab/ClayPigeon/ClayPigeon_Oversized.prefab
+- Assets/VirtualObjects/Targets/Prefab/Prefabs/Pumpkin_AutoKill.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_Tomato.prefab
+- Assets/VirtualObjects/GlowStick/Prefabs/GlowStick.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Spectacles.prefab
+- Assets/UI/Unsorted/Prefabs/AmmoSpawningPanel_New.prefab
+- Assets/Environment/_SceneSpecific/RotWieners/Prefabs/Items/footballus.prefab
+- Assets/VirtualObjects/Targets/Prefab/ClayFlowerPot/ClayFlowerPot_Small.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/TT_GarryGasGrill.prefab
+- Assets/Player/Backpacks/Prefabs/ButtBackPack.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_toytargetstools.asset
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Horse.prefab
+- Assets/VirtualObjects/CynicatPaperTargetSystem/ProfileRefs/PTargetRef_IPSCStandard.prefab
+- Assets/VirtualObjects/CynicatPaperTargetSystem/ProfileRefs/PTargetRef_TheOG.prefab
+- Assets/VirtualObjects/Targets/Prefab/ClayFlowerPot/ClayFlowerPot_Large_EarlyDeath.prefab
+- Assets/VirtualObjects/CynicatPaperTargetSystem/ProfileRefs/PTargetRef_IPSCSilhouette.prefab
+- Assets/VirtualObjects/Tools/FlashLight/Prefabs/FlashLight.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/GumDrop_Red.prefab
+- Assets/VirtualObjects/Camcorder/Camcorder.prefab
+- Assets/VirtualObjects/HorseShoes/Prefabs/Horseshoe01c.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Cow.prefab
+- Assets/VirtualObjects/Pyro/Match/Prefabs/Matchbox.prefab
+- Assets/VirtualObjects/AnimalNoiseMakers/Prefabs/AnimalNoiseMaker_Anton.prefab
+- Assets/VirtualObjects/CynicatPaperTargetSystem/ProfileRefs/PTargetRef_IPSCMini.prefab
+- Assets/VirtualObjects/CynicatPaperTargetSystem/ProfileRefs/PTargetRef_Marksman.prefab
+- Assets/Player/Backpacks/Prefabs/PlayerBackPack_A.prefab
+- Assets/VirtualObjects/MovingPlatform/Prefabs/MovingPlatform.prefab
+- Assets/VirtualObjects/Sparklers/Prefabs/Sparkler.prefab
+- Assets/VirtualObjects/Pivotlocker/HoverBench.prefab
+Dependencies: []

@@ -1,0 +1,432 @@
+ManifestFileVersion: 0
+CRC: 4149866109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55b91b3b8a12af09583503db0a9933e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 516e86d901dd2af4b235393499e25d09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91163d126e04bf7448b551a55aa759ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f531a820bd8d314588e0b2bdc0ac7d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63ec34a336e2cd2448b6a4ef3bc5d31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43fb6df36db55a24584a5ca55eb825c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dccc0d341856dd54aac28974eaaf9202, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb693544b61dc342b943b4bd324cdfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ee891351a66ffa4591295473ddedfe0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 926e49160d9e702439fef60a13ff6035, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa083fc66a05a414cad4593ad31869fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efb492d80869bd54a8c2db0c5d5701af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2a30679768f650429155b46cb6bd81a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bc5669aae65e5540ba48129b38a4414, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb4ea0cb5962bc4890032bbe020b31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b06d865cf633c0d4dbeee4949670fcc9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d597a28cde98883428ce100099ff6325, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ab28dacae911154db4e2ce0f33fa9b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b3e243d212ae24428e9b0c80df3561d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c055c53dfe6767a4083f6f75dead7398, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbe6c75d0eb67bf4b9d5a4ffba20b921, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43a88abd060c31d4a9ccf3adebd37ae3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1581591ec4d0f66489accf5ffe7b7a71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+Assets:
+- Assets/Weaponry/_Ammunition/Prefabs/38Special/Ammo_38Special_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/545x39mm/Ammo_545x39mm_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x25mm/Ammo_762x25mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x39mm/Ammo_762x39mm_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_70Govt/Ammo_45_70Govt_SoftPoint.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/408Cheyenne/Ammo_408Cheyenne_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x54mmR/Ammo_762x54mmR_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmAuto/Ammo_10mmAuto_FMJ.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_303British.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/380ACP/Ammo_380ACP_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/357Magnum/Ammo_357magnum_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/23x75mmR/Ammo_23x75mmR_Barricade.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/280British/Ammo_280British_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/556x45mm/Ammo_556x45mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20guage/Ammo_20gauge_DragonsBreath.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x25mm/Ammo_762x25mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20guage/Ammo_20gauge_Freedomfetti.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/455Webley/Ammo_455Webley_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x54mmR/Ammo_762x54mmR_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/Cpbp/Ammo_aCpbp.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50Imaginary/Ammo_50Imaginary_BOOOMY.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/408Cheyenne/Ammo_408Cheyenne_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_X214Steelbreaker.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x18mmMakarov/Ammo_9x18mmMakarov_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/30Carbine/Ammo_30Carbine_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x19mm/Ammo_9x19mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/280British/Ammo_280British_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/338Lapua/Ammo_338Lapua_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50BMG/Ammo_50BMG_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/3006Springfield/Ammo_3006Springfield_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x39mm/Ammo_9x39mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/75x54mmFrench/Ammo_75x54mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_X477CornerFrag.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/308Winchester/Ammo_308Winchester_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_X666Baphomet.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_SWAG12FA.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300Blackout/Ammo_300Blackout_SubsonicFMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/3006Springfield/Ammo_3006Springfield_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_X1776FreedomParty.prefab
+- Assets/Weaponry/Revolvers/SpeedLoaders/R8_Speedloader.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/41Short/Ammo_41Short_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10x27mmPulsed/Ammo_10x27mmPulsed.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/23x75mmR/Ammo_23x75mmR_Buckshot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x39mm/Ammo_9x39mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/454Casull/Ammo_454Casull_SoftPoint.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/8x22mmNambu/Ammo_8x22mmNambu_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/32ACP/Ammo_32ACP_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300WinchesterMagnum/Ammo_300WinchesterMagnum_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_SWAG12HE.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/35Remington/Ammo_35Remington_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/38Rimfire/Ammo_38Rimfire_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12_7x108mm/Ammo_12_7x108mm_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40mmCaseless/Ammo_40mmCaseless_HEFJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/454Casull/Ammo_454Casull_Penetrator.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/57x28mm/Ammo_57x28mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/25ACP/Ammo_25ACP_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/308Winchester/Ammo_308Winchester_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACP/Ammo_45ACP_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x51mm/Ammo_762x51mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/57x28mm/Ammo_57x28mm_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12_7x108mm/Ammo_12_7x108mm_Double.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40SW/Ammo_40SW_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/8x22mmNambu/Ammo_8x22mmNambu_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/13_2mmTUF/Ammo_13_2mmTUF_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/792x57mmMauser/Ammo_792x57mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/303British/Ammo_303British_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50AE/Ammo_50AE_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_M781Practice.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/556x45mm/Ammo_556x45mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_70Govt/Ammo_45_70Govt_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/338Lapua/Ammo_338Lapua_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmAuto/Ammo_10mmAuto_Tracer.prefab
+- Assets/Weaponry/Revolvers/SpeedLoaders/Speedloader_22WM_6Shot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20x82mm/Ammo_20x82mm_FMJ.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_762x39mm.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x51mm/Ammo_762x51mm_JHP.prefab
+- Assets/Weaponry/Revolvers/SpeedLoaders/Speedloader_44-40_6Shot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50mmPotato/Ammo_50mmPotato.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/792x33mmKurz/Ammo_792x33mmKurz_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12gaugeBelted/Ammo_12gaugeBelted_Slug.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_TripleHit.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x23mmSteyr/Ammo_9x23mmSteyr_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/57x28mm/Ammo_57x28mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/338Lapua/Ammo_338Lapua_Tracer.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_792x57mm.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/57x28mm/Ammo_57x28mm_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/38ACP/Ammo_38ACP_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/308Winchester/Ammo_308Winchester_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/600MagnumBolt/Ammo_600MagnumBoltAP.prefab
+- Assets/Weaponry/Revolvers/SpeedLoaders/Speedloader_455Webley_6Shot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/408Cheyenne/Ammo_408Cheyenne_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x25mm/Ammo_762x25mm_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/25ACP/Ammo_25ACP_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12_7x108mm/Ammo_12_7x108mm_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/106x25mmR/Ammo_106x25mmR_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/27x90/Ammo_27x90_Megabuck.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x51mm/Ammo_762x51mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50Imaginary/Ammo_50Imaginary_NERMAL.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/455Auto/Ammo_455Auto_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmDSM/Ammo_10mmDSM_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50Imaginary/Ammo_50Imaginary_SPESHUL.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/8x50mmR/Ammo_8x50mmR_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20x82mm/Ammo_20x82mm_HE.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_762x54mmR.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x54mmR/Ammo_762x54mmR_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/455Auto/Ammo_455Auto_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12_7x108mm/Ammo_12_7x108mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/46x30mm/Ammo_46x30mm_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x39mm/Ammo_762x39mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_M651CSGas.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300WinchesterMagnum/Ammo_300WinchesterMagnum_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/763x25mmBorchardt/Ammo_763x25mmBorchardt_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x18mmMakarov/Ammo_9x18mmMakarov_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/408Cheyenne/Ammo_408Cheyenne_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12_7x108mm/Ammo_12_7x108mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_70Govt/Ammo_45_70Govt_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20x82mm/Ammo_20x82mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACP/Ammo_45ACP_+PFMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_No4Buckshot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44Magnum/Ammo_44Magnum_Penetrator.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/357Sig/Ammo_357Sig_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACPOversize/Ammo_45ACP_Oversize_Mortar.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44_40_Winchester/Ammo_44_40WC_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACP/Ammo_45ACP_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACPOversize/Ammo_45ACP_Oversize_MIRV.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50AE/Ammo_50AE_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/308Winchester/Ammo_308Winchester_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/32ACP/Ammo_32ACP_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_110Sharps/Ammo_45_110Sharps_HighGrain.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACP/Ammo_45ACP_+PJHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/30Carbine/Ammo_30Carbine_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/22LR/Ammo_22LR_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/38Special/Ammo_38Special_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/577_45_MartiniHenry/Ammo_577_450_MartiniHenry.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_No2Buckshot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x51mm/Ammo_762x51mm_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/46x30mm/Ammo_46x30mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50BMG/Ammo_50BMG_Mk211.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmAuto/Ammo_10mmAuto_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/75x54mmFrench/Ammo_75x54mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x54mmR/Ammo_762x54mmR_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_110Sharps/Ammo_45_110Sharps_Penetrator.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/763x25mmMauser/Ammo_763x25mmMauser_Tracer.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_3006.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x39mm/Ammo_762x39mm_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x51mm/Ammo_762x51mm_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/545x39mm/Ammo_545x39mm_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/5mmBergmann/Ammo_5mmBergmann_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_RedFlare.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/8x50mmR/Ammo_8x50mmR_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/454Casull/Ammo_454Casull_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/338Lapua/Ammo_338Lapua_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300Blackout/Ammo_300Blackout_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20x82mm/Ammo_20x82mm_SAPHEI.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x38mmR/Ammo_762x38mmR_FMJ.prefab
+- Assets/Weaponry/Revolvers/SpeedLoaders/Speedloader_38Special_6Shot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/3006Springfield/Ammo_3006Springfield_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_X828Aurora.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50Imaginary/Ammo_50Imaginary_FLASHY.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50AE/Ammo_50AE_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/58x42mm/Ammo_58x42mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50Imaginary/Ammo_50Imaginary_POINTYOWW.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/280British/Ammo_280British_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/27x90/Ammo_27x90_Frag.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_Freedomfetti.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x51mm/Ammo_762x51mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12gaugeBelted/Ammo_12gaugeBelted_Flechette.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x42mmSP4/Ammo_762x42mmSP4_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/454Casull/Ammo_454Casull_HighGrain.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/280British/Ammo_280British_JHP.prefab
+- Assets/Weaponry/Revolvers/SpeedLoaders/Speedloader_357_6Shot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/22WM/Ammo_22WM_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20guage/Ammo_20gauge_Slug.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20x82mm/Ammo_20x82mm_HEI.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/41Volcanic/Ammo_41Volcanic_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_110Sharps/Ammo_45_110Sharps_SoftPoint.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/22LR/Ammo_22LR_HVHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300WinchesterMagnum/Ammo_300WinchesterMagnum_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_M381HE.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_M397Airburst.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/27x90/Ammo_27x90_Smokescreen.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACPOversize/Ammo_45ACP_Oversize_MegaBuckShot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/545x39mm/Ammo_545x39mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/46x30mm/Ammo_46x30mm_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40mmCaseless/Ammo_40mmCaseless_SMK.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/556x45mm/Ammo_556x45mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/455Webley/Ammo_455Webley_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_70Govt/Ammo_45_70Govt_HighGrain.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/556x45mm/Ammo_556x45mm_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/303British/Ammo_303British_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmDSM/Ammo_10mmDSM_TurboPenetrator.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44_40_Winchester/Ammo_44_40WC_Penetrator.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmDSM/Ammo_10mmDSM_Frag.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/38Special/Ammo_38Special_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/38Rimfire/Ammo_38Rimfire_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/106x25mmR/Ammo_106x25mmR_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x19mm/Ammo_9x19mm_+PFMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACP/Ammo_45ACP_FMJ.prefab
+- Assets/Weaponry/Revolvers/SpeedLoaders/Speedloader_44Mag.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45LongColt/Ammo_45LongColt_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40mmCaseless/Ammo_40mmCaseless_SF1.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_70Govt/Ammo_45_70Govt_Penetrator.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/380ACP/Ammo_380ACP_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/65x52mmCarcano/Ammo_65x52mmCarcano_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/308Winchester/Ammo_308Winchester_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20x82mm/Ammo_20x82mm_APDS.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_Flechette.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/500SW/Ammo_500SW_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12gaugeBelted/Ammo_12gaugeBelted_Buckshot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50BMG/Ammo_50BMG_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x19mm/Ammo_9x19mm_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300WinchesterMagnum/Ammo_300WinchesterMagnum_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/22LR/Ammo_22LR_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45LongColt/Ammo_45LongColt_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/763x25mmBorchardt/Ammo_763x25mmBorchardt_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/57x28mm/Ammo_57x28mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmDSM/Ammo_10mmDSM_Volt.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50BMG/Ammo_50BMG_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44_40_Winchester/Ammo_44_40WC_HighGrain.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/8mmBergmann/Ammo_8mmBergmann_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/763x25mmMauser/Ammo_763x25mmMauser_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/8x50mmR/Ammo_8x50mmR_MBall.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_C96Mauser.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300Blackout/Ammo_300Blackout_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44Magnum/Ammo_44Magnum_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/408Cheyenne/Ammo_408Cheyenne_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x39mm/Ammo_762x39mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/27x90/Ammo_27x90_HEAT.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmDSM/Ammo_10mmDSM_Mag.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/792x57mmMauser/Ammo_792x57mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_Cannonball.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/545x39mm/Ammo_545x39mm_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/46x30mm/Ammo_46x30mm_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/792x33mmKurz/Ammo_792x33mmKurz_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/3Gauge/Ammo_3gauge_00Buck.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44Magnum/Ammo_44Magnum_SoftPoint.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44Magnum/Ammo_44Magnum_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/357Magnum/Ammo_357magnum_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x39mm/Ammo_762x39mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45ACP/Ammo_45ACP_+PAPI.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_00Buckshot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/25ACP/Ammo_25ACP_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44_40_Winchester/Ammo_44_40WC_SoftPoint.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40SW/Ammo_40SW_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/3006Springfield/Ammo_3006Springfield_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/357Magnum/Ammo_357magnum_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50RemBP/Ammo_50RemBP_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/DarkMatterLemon/Ammo_DarkMatterLemon.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40x46mmGrenade/Ammo_40x46_M576MPAPERS.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300Blackout/Ammo_300Blackout_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/545x39mm/Ammo_545x39mm_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_DragonsBreath.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/338Lapua/Ammo_338Lapua_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/46x30mm/Ammo_46x30mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300Blackout/Ammo_300Blackout_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x19mm/Ammo_9x19mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300WinchesterMagnum/Ammo_300WinchesterMagnum_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/500SW/Ammo_500SW_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/27x90/Ammo_27x90_Inferno.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_75x54mm.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40mmCaseless/Ammo_40mmCaseless_TPM.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/308Winchester/Ammo_308Winchester_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300WinchesterMagnum/Ammo_300WinchesterMagnum_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/38Rimfire/Ammo_38Rimfire_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40mmCaseless/Ammo_40mmCaseless_HEF.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300Blackout/Ammo_300Blackout_SubsonicAP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x19mm/Ammo_9x19mm_+PJHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/600MagnumBolt/Ammo_600MagnumBoltJHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/556x45mm/Ammo_556x45mm_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50BMG/Ammo_50BMG_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/20guage/Ammo_20gauge_00Buckshot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/8x22mmNambu/Ammo_8x22mmNambu_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/40SW/Ammo_40SW_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50RemBP/Ammo_50RemBP_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300Blackout/Ammo_300Blackout_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/280British/Ammo_280British_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x18mmMakarov/Ammo_9x18mmMakarov_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50RemBP/Ammo_50RemBP_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guageShort/Ammo_12gaugeShort_No1Buckshot.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/58x42mm/Ammo_58x42mm_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x39mm/Ammo_762x39mm_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/763x25mmMauser/Ammo_763x25mmMauser_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/27x90/Ammo_27x90_TriFlash.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmDSM/Ammo_10mmDSM_Mine.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/454Casull/Ammo_454Casull_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/408Cheyenne/Ammo_408Cheyenne_Incendiary.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_762x51mm.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12guage/Ammo_12gauge_Slug.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/22WM/Ammo_22WM_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmDSM/Ammo_10mmDSM_Slugger.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/12_7x108mm/Ammo_12_7x108mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/36Moses/Ammo_36Moses.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44Magnum/Ammo_44Magnum_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/10mmDSM/Ammo_10mmDSM_Swarm.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/32ACP/Ammo_32ACP_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_110Sharps/Ammo_45_110Sharps_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/22WM/Ammo_22WM_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/338Lapua/Ammo_338Lapua_APIncendiary.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_ammunition.asset
+- Assets/Weaponry/_Ammunition/Prefabs/23x75mmR/Ammo_23x75mmR_Flash.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/545x39mm/Ammo_545x39mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/380ACP/Ammo_380ACP_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/3006Springfield/Ammo_3006Springfield_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/47x33mm/Ammo_47x33mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50Imaginary/Ammo_50Imaginary_MEGA.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_35Remington.prefab
+- Assets/Weaponry/Clips/Prefabs/StripperClip_SteyrM1912.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x54mmR/Ammo_762x54mmR_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/23x75mmR/Ammo_23x75mmR_CSGas.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/45_110Sharps/Ammo_45_110Sharps_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/300Blackout/Ammo_300Blackout_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/280British/Ammo_280British_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44HenryRimfire/Ammo_44HenryRimfire_SP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/600MagnumBolt/Ammo_600MagnumBoltHE.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/3006Springfield/Ammo_3006Springfield_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/556x45mm/Ammo_556x45mm_APIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/500SW/Ammo_500SW_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/57x28mm/Ammo_57x28mm_Incendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/50BMG/Ammo_50BMG_AP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/46x30mm/Ammo_46x30mm_FMJ.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/44_40_Winchester/Ammo_44_40WC_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/9x19mm/Ammo_9x19mm_+PAPIncendiary.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/357Sig/Ammo_357Sig_JHP.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/357Sig/Ammo_357Sig_Tracer.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/762x54mmR/Ammo_762x54mmR_Tracer.prefab
+Dependencies: []

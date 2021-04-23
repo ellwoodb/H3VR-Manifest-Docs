@@ -1,0 +1,184 @@
+ManifestFileVersion: 0
+CRC: 2858626105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34ea72b334e81fe43e8374642292c117
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ed459aee4b986d860a50ecf763c6718
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb000de07dbff044ab7b342ff8fd0e3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6afc46117116c84885915dee80f93fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a41fb71afe87514491b4ce232eabf0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162ef8944c64ebb479a963cd9d78b2d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ee891351a66ffa4591295473ddedfe0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe473b076a4a41c4f87affc9ec4a1a0b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e8f11672853ff44aa13ac9f2b302f10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ded4a3dbec4b5041bf6bd3a74960041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Weaponry/Melee/Improvised/Cleaver.prefab
+- Assets/Weaponry/Melee/Tactical/MX8.prefab
+- Assets/Weaponry/Melee/Medieval/Dagger_Footsmans.prefab
+- Assets/Weaponry/Melee/Medieval/Flameberg.prefab
+- Assets/Weaponry/Melee/Garage/HammerOld.prefab
+- Assets/Weaponry/Melee/Tactical/Tomahawk.prefab
+- Assets/Weaponry/Melee/Shields/BallisticShield.prefab
+- Assets/Weaponry/Melee/Medieval/LongSword02.prefab
+- Assets/Weaponry/Melee/Medieval/Katzbalger.prefab
+- Assets/Weaponry/Melee/Tactical/SurvivalKnife.prefab
+- Assets/Weaponry/Melee/Medieval/GermanicAxe1.prefab
+- Assets/Weaponry/Melee/Improvised/BaseballBat.prefab
+- Assets/Weaponry/Melee/GoofyMelee/BodyPillow.prefab
+- Assets/Weaponry/Melee/Medieval/Shuriken.prefab
+- Assets/Weaponry/Melee/Improvised/Pickaxe.prefab
+- Assets/Weaponry/Melee/Farming/Hoe.prefab
+- Assets/Weaponry/Melee/Garage/Hammer.prefab
+- Assets/Weaponry/Melee/Farming/Broom.prefab
+- Assets/Weaponry/Melee/Improvised/Crowbar.prefab
+- Assets/Weaponry/Melee/Garage/Hammer2.prefab
+- Assets/Weaponry/Melee/PowerTools/Chainsaw.prefab
+- Assets/Weaponry/Melee/Farming/ShovelFlat.prefab
+- Assets/Weaponry/Melee/Medieval/Katana.prefab
+- Assets/Weaponry/Melee/Garage/WrenchTwoSided.prefab
+- Assets/Weaponry/Melee/Improvised/PipeLShape.prefab
+- Assets/Weaponry/Melee/Improvised/SawBat.prefab
+- Assets/Weaponry/Melee/Medieval/ArmingSword.prefab
+- Assets/Weaponry/Melee/Improvised/Hatchet.prefab
+- Assets/Weaponry/Melee/Medieval/Dagger_SwordHilt.prefab
+- Assets/Weaponry/Melee/Improvised/Machete.prefab
+- Assets/Weaponry/Melee/Tactical/Karambit.prefab
+- Assets/Weaponry/Melee/Improvised/CricketBat.prefab
+- Assets/Weaponry/Melee/Medieval/Mace01.prefab
+- Assets/Weaponry/Melee/Shields/MedShield_HandGrenade.prefab
+- Assets/Weaponry/Melee/Medieval/GermanicAxe3.prefab
+- Assets/Weaponry/Melee/Garage/UtilityKnife.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_melee.asset
+- Assets/Weaponry/Melee/Tactical/Tonfa.prefab
+- Assets/Weaponry/Melee/Garage/MalletSquare.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Tactical Yule log.prefab
+- Assets/Weaponry/Melee/Medieval/Estoc.prefab
+- Assets/Weaponry/Melee/Medieval/Zweihander.prefab
+- Assets/Weaponry/Melee/Medieval/Claymore.prefab
+- Assets/Weaponry/Melee/Medieval/LongSword04.prefab
+- Assets/Weaponry/Melee/Improvised/FireAxe.prefab
+- Assets/Weaponry/Melee/Garage/Dustpan.prefab
+- Assets/Weaponry/Melee/Farming/Sickle.prefab
+- Assets/Weaponry/Melee/GoofyMelee/CandyCaneMeleeWeapon.prefab
+- Assets/Weaponry/Melee/Medieval/LongSword01.prefab
+- Assets/Weaponry/Melee/Improvised/BillhookMachete.prefab
+- Assets/Weaponry/Melee/Medieval/Rapier.prefab
+- Assets/Weaponry/Melee/Shields/RiotShield.prefab
+- Assets/Weaponry/Melee/Tactical/TacticalKnife.prefab
+- Assets/Weaponry/Melee/Medieval/Espadon.prefab
+- Assets/Weaponry/Melee/Farming/Trowel.prefab
+- Assets/Weaponry/Melee/Tactical/CombatKnife.prefab
+- Assets/Weaponry/Melee/Medieval/Mace02.prefab
+- Assets/Weaponry/Melee/Medieval/Cutlass.prefab
+- Assets/Weaponry/Melee/Roman/Gladius.prefab
+- Assets/Weaponry/Melee/Medieval/GermanicAxe2.prefab
+- Assets/Weaponry/Melee/Farming/Handrake.prefab
+- Assets/Weaponry/Melee/Medieval/Warhammer.prefab
+- Assets/Weaponry/Melee/Farming/Rake.prefab
+- Assets/Weaponry/Melee/Farming/WoodAxe.prefab
+- Assets/Weaponry/Melee/GoofyMelee/LaserSword.prefab
+- Assets/Weaponry/Melee/Roman/Pilum2.prefab
+- Assets/Weaponry/Melee/PowerTools/Drill.prefab
+- Assets/Weaponry/Melee/Medieval/Dagger_Elegant.prefab
+- Assets/Weaponry/Melee/Improvised/Shoe1.prefab
+- Assets/Weaponry/Melee/Tactical/Tanto.prefab
+- Assets/Weaponry/Melee/Improvised/CleaverOldTimey.prefab
+- Assets/Weaponry/Melee/Medieval/Dagger_Horned.prefab
+- Assets/Weaponry/Melee/Farming/Pitchfork.prefab
+- Assets/Weaponry/Melee/Garage/SledgeHammer.prefab
+- Assets/Weaponry/Melee/Tactical/M3TrenchKnife.prefab
+- Assets/Weaponry/Melee/Improvised/PencilNo2.prefab
+- Assets/Weaponry/Melee/Tactical/BrassKnuckles.prefab
+- Assets/Weaponry/Melee/Roman/Pilum.prefab
+- Assets/Weaponry/Melee/Improvised/GrenthorKalStaff.prefab
+- Assets/Weaponry/Melee/Medieval/LongSword03.prefab
+- Assets/Weaponry/Melee/Medieval/Grossmesser.prefab
+- Assets/Weaponry/Melee/Tactical/Kukri.prefab
+- Assets/Weaponry/Melee/Farming/GardenShovel.prefab
+- Assets/Weaponry/Melee/Medieval/Bardiche.prefab
+- Assets/Weaponry/Melee/Garage/MalletRound.prefab
+- Assets/Weaponry/Melee/Medieval/Falchion.prefab
+- Assets/Weaponry/Melee/PowerTools/CircleSaw.prefab
+- Assets/Weaponry/Melee/Garage/FlatheadScrewdriver.prefab
+- Assets/Weaponry/Melee/Garage/BigPipeWrench.prefab
+- Assets/Weaponry/Melee/Shields/Scutum.prefab
+- Assets/Weaponry/Melee/Garage/SledgeHammerOld.prefab
+- Assets/Weaponry/Melee/Garage/HandAxe.prefab
+- Assets/Weaponry/Melee/Garage/ShortSledge.prefab
+- Assets/Weaponry/Melee/Improvised/CastIronPan.prefab
+- Assets/Weaponry/Melee/Medieval/BastardSword.prefab
+Dependencies: []

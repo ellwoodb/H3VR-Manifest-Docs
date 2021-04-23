@@ -1,0 +1,422 @@
+ManifestFileVersion: 0
+CRC: 2182723443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da0618507c9c896e92f12507de49321e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: faeae92921c662dff21f9e7b1ac44376
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a7b600081cb3554aa9f1b0e41f0a086, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a442eb30f4babb94c93f95b8a80dff26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32bb8c70c89f2ec42bfeee2003fa2e05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4494fb8050b3e8a4d89ed858a8e2e6a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6bfac907695c0747bd83802fe3bc6ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d3846a0aaecf3b45a7976c69d8515e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b1a5ba0c08eefa4e83613ab56c787dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 895b46c0b4ce59d4d8cdba9ed460592e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e216a518ff2119499a5d8e5564b8906, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0921b881f7d041c44847ca4c4c6e44fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34142c81422399041b037781e79e55be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52b9dfa11c51d5d4eb5b2db243a44627, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3809591222f8d8c46b90c1f5da03a968, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a8be2329cd3d744cabf778721dea85f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f64de462cf040b1419746e99e4da976d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6009f692b9c0cc043913aec2217f59c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85bc8a234ba0354e82d72ce5e8ea445, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5949a613af85d624fa7fcbd8f7af6738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17d86b13ee32f5e4fa6e3cb793810d5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afaafb2330fa68b45b1f25ba159f7f38, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d6299738d0208f459de98312836d42d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 264ba3834a8220f48aefb4017b0cf368, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e7ed4830ada235439ca0c0c43f7f44a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1170d93b2bf9554d9d860967b71788f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2337c1d3cf508b44aba3906191000174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc674bd388898634c951ce7e033c9c4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43fb6df36db55a24584a5ca55eb825c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40f6fb14e3bb53e4698502828c8fca67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dccc0d341856dd54aac28974eaaf9202, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c425d347124f1d4085b6e3a28d5e154, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4a2b344b61039f4d89aaa5454d03183, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb693544b61dc342b943b4bd324cdfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f6424841a1744340a97c3c7e08c31e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162ef8944c64ebb479a963cd9d78b2d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0012a3a428575c54b8384b99ff504b74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b23918a4011c8df4ab5d2f13918a72a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70ca0fb4896755c4c8010dae9ef09251, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cad09150c9892c43b9e1862e9b26ab4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a703e2538308bf4b8264c5c729ddbd3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fc254556d1141640b8e5546c05eb8da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51b21c5557da00948ae52ee8b369c3ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b3da4756680f194e804debd4639cd9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a98c2c5ad502354c9783968fbaf0ccd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e056590682b3a1f4f86fc4d2f0b69595, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb393416febbc074e847ed998aa75e3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c8d3086eff080d428259ccf1943864a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbc706867a32fca4ca17060054ed7cb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa083fc66a05a414cad4593ad31869fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8edb8637fafe06e4785113d74492fc4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05c861a7742f13146bf286c307aabe25, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5ee03a70958dc6429b0e50d601119e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3bfb44a7c5be6484896383d3a830a135, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54702fe7412d0a441821f3fe4f30548a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a3d4808652a1fc4aa924d800e9cb0e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d8d1218148759b448b4916bda0389d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e75f0488506514449c54fe73a615053, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a93dd8888cf44e741975e48957e3056f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6c02a857bc22b40b381a71c6da0c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66b2e9b8ab97c214284e72c538572e8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efb492d80869bd54a8c2db0c5d5701af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb548009bb39e40408d50be63bfae5f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68656e19b26f21949ae32cb7437c0d2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af337a89d3df4ef4fb98fca9281d4927, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 767e7999984d4c240b978a12382c95fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ce588a94b311434cbe9328466f573ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 286bb3c9f94398c4db7e3bfae833daac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f157dc982147474caf09d24d36299a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0594d0f9efbc26245a6d4e0efa31b14e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b77f300ad18e52a4dbcf290d82c6798f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2300374a4ab2b7e4b88006f175a349cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1941384aa6a9749419252783fb952a4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bc5669aae65e5540ba48129b38a4414, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d33721ba38389ac429109770f1c77d1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79cd5da6f0e04e4e8a49549c50f6f9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb0dbfda09e55ce46970af98f02bbf5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 814b8b0b3c1cc46469004202f01866cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05817e3b23518764fa4356da8ec8dc0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df01848bf2860fb4ca4d5f61ba8da61f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c56358bd5348db44857d88dc0e03cec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 612538bbe690af44a912589938e93e83, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb4ea0cb5962bc4890032bbe020b31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b26c205c26ff9ec4da88c2105aebed7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b06d865cf633c0d4dbeee4949670fcc9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b71b87ca0d22f84b82f971b472e70e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b58049cdd9387c4d8dfce21b19cebde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad210b9c616b5bd40ac5cc7550f5a586, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d0bf6cc01685c540911f8855d4f7d7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a1ccbcc1d6b80248b4a9bcc5fc63ac7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efe457fcd8747b94abec8d2f6452f71e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74f33a1d7e6f5de4f84204223b32b3bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c055c53dfe6767a4083f6f75dead7398, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c93883d373b8f04ca5b83602477c4a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ded4a3dbec4b5041bf6bd3a74960041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca22284d23646024093d7a9f9be9e132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be6e9c4d525278441a812c4231a1c05c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e212adc7e0d154ba0a334a17c7a09b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1ef2aad9a024fd428be3816a5588452, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43a88abd060c31d4a9ccf3adebd37ae3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a78f9fdda5c7b6f4ca6fafd4ed934af1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1924fa0e29aeff74bb65237fa24c3dfa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b6a945ea7713634989c4e450d85c0a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59955e6e654ed394d9f3f0752f04f5e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9512f8ae21925c447a17c43e041a686a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 480015de2b9179d4fb270c93a97da2cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c32519de648a38c45a98829270b22551, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7262d1f57c74054d8d253a996e9ff1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e3af84f6e644534fa3b1516a0e53ed3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bd140bf747235445aa0853087700c9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f8948cfef5132e4faaad67c0fa0e23c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Weaponry/Support/Ammo/SturmGrenade_Unfired.prefab
+- Assets/Weaponry/Support/Magazines/STENOF_Magazine.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_RG5.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_RGO.prefab
+- Assets/Weaponry/Launchers/HK69A1.prefab
+- Assets/Weaponry/Support/RPG7.prefab
+- Assets/VirtualObjects/BangSnaps/Prefabs/TurboBangsnap.prefab
+- Assets/Weaponry/Support/Ammo/M72_rocket_prelaunch.prefab
+- Assets/Weaponry/Support/Bren_Shorty.prefab
+- Assets/Weaponry/Support/Magazines/Stoner63LMG_BeltBox.prefab
+- Assets/Weaponry/Support/M1918_BAR.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_RGO.prefab
+- Assets/Weaponry/Special/GravitonBeamer/Prefabs/GravitonBeamer.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_FMK2.prefab
+- Assets/Weaponry/Support/Ammo/P54_RPzBGr4322Rocket_prelaunch.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_FMK2.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_MkVGasGrenade.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_T13Beano.prefab
+- Assets/Weaponry/Support/Magazines/M1918_Magazine.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_M18SmokeGrenade_Red.prefab
+- Assets/Weaponry/Launchers/MilkorMGL.prefab
+- Assets/Weaponry/Support/Magazines/AR3_BeltBox.prefab
+- Assets/Weaponry/Launchers/RG6.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_Mk2.prefab
+- Assets/Weaponry/Launchers/M72A7.prefab
+- Assets/Weaponry/Support/BeltSegments/BeltSegment_M2Tombstone.prefab
+- Assets/Weaponry/Launchers/PotatoCannon_Cap.prefab
+- Assets/Weaponry/Explosives/Dynamite.prefab
+- Assets/Weaponry/Support/Magazines/Minigun_Box.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_M67.prefab
+- Assets/Weaponry/Explosives/_Sources/SPAAM/SPAAM.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_Mk2.prefab
+- Assets/Weaponry/Support/AR3.prefab
+- Assets/Weaponry/Support/MG42.prefab
+- Assets/Weaponry/Launchers/HairsprayCan.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_M219.prefab
+- Assets/Weaponry/Support/Magazines/MG42_BeltBox.prefab
+- Assets/Weaponry/Support/Magazines/M2Tombstone_BeltBox.prefab
+- Assets/Weaponry/Special/RebarCrossbow/SustenanceCrossbow.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_RG42.prefab
+- Assets/Weaponry/Launchers/M79v2.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_M67.prefab
+- Assets/Weaponry/Support/Magazines/DP28_Magazine.prefab
+- Assets/Weaponry/Support/PanzerShrek54.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_RGN.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_M26.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_HE36MillsBomb.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_F1Russia.prefab
+- Assets/Weaponry/Support/BeltSegments/BeltSegment_RPD.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_M340.prefab
+- Assets/Weaponry/Launchers/ChinaLake.prefab
+- Assets/Weaponry/Support/Flamethrower.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_F1Russia.prefab
+- Assets/Weaponry/Explosives/FragGrenade_Xmas.prefab
+- Assets/Weaponry/Support/BeltSegments/BeltSegment_M249.prefab
+- Assets/Weaponry/Support/Magazines/STENOF_Drum.prefab
+- Assets/Weaponry/Support/M60.prefab
+- Assets/Weaponry/Support/DP28.prefab
+- Assets/Weaponry/Handguns/Magazines/Kolibri9000_Magazine.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_HE36MillsBomb.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_M219.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_RG5.prefab
+- Assets/Weaponry/Support/Bren.prefab
+- Assets/Weaponry/Support/Magazines/FlameThrower_Tank.prefab
+- Assets/Weaponry/Support/M60e4.prefab
+- Assets/Weaponry/Support/M1918_BAR_Shorty.prefab
+- Assets/Weaponry/Support/M249.prefab
+- Assets/Weaponry/_Ammunition/Prefabs/HCBBolt/Ammo_HCBBolt.prefab
+- Assets/Weaponry/Support/Magazines/M249_BeltBox.prefab
+- Assets/Weaponry/Support/Magazines/RPD_BeltBox.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_M18SmokeGrenade_White.prefab
+- Assets/Weaponry/Support/M60e3.prefab
+- Assets/Weaponry/Handguns/Kolibri9000.prefab
+- Assets/Weaponry/Launchers/RGM40.prefab
+- Assets/Weaponry/Explosives/_Sources/SPAAM/SPAAM_Detonator.prefab
+- Assets/Weaponry/Support/SturmPistole.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_XM84.prefab
+- Assets/Weaponry/Support/M2Tombstone.prefab
+- Assets/Weaponry/Support/BeltSegments/BeltSegment_M60.prefab
+- Assets/Weaponry/Explosives/Molotov.prefab
+- Assets/Weaponry/Support/Magazines/Stinger_BCU.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_URG86.prefab
+- Assets/Weaponry/Support/Magazines/Bren_Magazine.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_URG86.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_RG42.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_M18SmokeGrenade_Freedom.prefab
+- Assets/Weaponry/Explosives/No69Grenade.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_support.asset
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_T13Beano.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_RGN.prefab
+- Assets/Weaponry/Support/RPD.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_M26.prefab
+- Assets/Weaponry/Support/Stinger.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_XM84.prefab
+- Assets/Weaponry/Support/DP28_Shorty.prefab
+- Assets/Weaponry/Explosives/HotDogGrenade.prefab
+- Assets/Weaponry/Launchers/M320.prefab
+- Assets/Weaponry/Support/Magazines/HandCrankFrank_Magazine.prefab
+- Assets/Weaponry/Explosives/BananaGrenade.prefab
+- Assets/Weaponry/Support/M1A1Bazooka.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_M18SmokeGrenade_White.prefab
+- Assets/Weaponry/Special/RebarCrossbow/SustenanceCrossbow_Battery.prefab
+- Assets/Weaponry/Support/BeltSegments/BeltSegment_MG42.prefab
+- Assets/Weaponry/Support/Ammo/rpg7_rocket_prelaunch.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_F1M1916.prefab
+- Assets/Weaponry/Support/BeltSegments/BeltSegment_AR3.prefab
+- Assets/Weaponry/Support/Minigun.prefab
+- Assets/Weaponry/Explosives/BoomSkee/BSGrenade_MkVGasGrenade.prefab
+- Assets/Weaponry/Support/Magazines/M60_BeltBox.prefab
+- Assets/Weaponry/Support/Ammo/M6_Rocket_prelaunch.prefab
+- Assets/Weaponry/Support/Magazines/MG42_BeltBoxGIANT.prefab
+- Assets/Weaponry/Support/HandCrankFrank.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_F1M1916.prefab
+- Assets/Weaponry/Explosives/Stielhandgranate.prefab
+- Assets/Weaponry/Explosives/PinnedGrenades/Grenades/PinnedGrenade_M340.prefab
+- Assets/Weaponry/Launchers/PotatoCannon.prefab
+- Assets/Weaponry/Support/STENOF.prefab
+- Assets/Weaponry/Support/Stoner63LMG.prefab
+- Assets/Weaponry/Explosives/CyberGrenade.prefab
+Dependencies: []

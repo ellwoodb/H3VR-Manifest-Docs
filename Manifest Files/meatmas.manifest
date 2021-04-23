@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 1787618919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b5ff38149d5217ec20815bdf6408ef9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a8a03f95f42f9969875f6eb05a93de4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c0eb8e3aa91faf41aa2a278f6ac3719, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44d0c845ef3841a4382ab19eeca367e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d48fe0b6c3cd234dac3895664340177, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e510435c6c4dec5409ec89f50b8151b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0d1a35c8a328ce49afb668b1ef220ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 792367ecc3875d6419f71819a7dc8b5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d1384dda18fc1b4390e4fe318b7b84d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+Assets:
+- Assets/Environment/_SceneSpecific/WinterWasteland/Prefabs/WWKeycard_Tier0.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/Candy/PeppermintCandyOrnament_Red.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/XmasBulb_Purple.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Ornaments/OrnamentGrenade1_A.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Ornaments/HorseshoeOrnament_B.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/XmasBulb_Red.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/XmasBulb_Pink.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/XmasBulb_Green.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/XmasBulb_Orange.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids__meatmas.asset
+- Assets/Environment/_SceneSpecific/WinterWasteland/Prefabs/WWKeycard_Tier2.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Ornaments/HorseshoeOrnament_A.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/XmasBulb_Yellow.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Ornaments/OrnamentGrenade1_C.prefab
+- Assets/Environment/_SceneSpecific/WinterWasteland/Prefabs/WWKeycard_Tier1.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Ornaments/OrnamentGrenade1_B.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/XmasBulb_White.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/Candy/PeppermintCandyOrnament_Green.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Ornaments/HorseshoeOrnament_C.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Hangables/XmasBulb_Blue.prefab
+Dependencies: []

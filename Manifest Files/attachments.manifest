@@ -1,0 +1,359 @@
+ManifestFileVersion: 0
+CRC: 2034265732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01d1d5ac5e823b851c5593754e75a50c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9afeba374dd1b1ffce91e9ae4f5a7fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddf0fc71c75d31a4e8129a11ac447823, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52b9dfa11c51d5d4eb5b2db243a44627, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d7706224e0203d4dbdb6c753464ac51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19f11952c7165634ea3b7517476f611f, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6009f692b9c0cc043913aec2217f59c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b3c2a92b46f1b349b38e22407937eae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25d64ce233c149a43a765cc9cf4ae293, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7dedb5033000d7047a71e333c1f79efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eebbff8366544ca4b86b358989889633, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0049093e2e2b2f4cb7428fe90e5c1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8ef18a3014da524fb9562fe83b726b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da87ada32d7e9854c9b9df8c6dff39eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162ef8944c64ebb479a963cd9d78b2d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 303feb94a2aa51a45a2f3e9f2998454e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 593ff2e45441ae14ba6f8428d3b11b83, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 233e52f4c85129e4282e7a3b13de5e5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e13ed666bcef6874386610d2ef878488, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 728a1b769ec573e4aaf335cbfcac6323, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 718e7286b8d1e3c4087d7690abd86f79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543d5c072b63b4a47b687aafe4c29c86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 110844179670baf4c8b4b0797b8cbaa8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef93f6675ff908a48ab996e17e4ce1b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36fa7d97a503d874e9e2a4ee824efbf4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ba940a7018b3d3459360a1ba014fe51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 037dd5189b10ced449564e95b1b901c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7b21479f3aadf741a4a5d41fb7edb35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 949a57b94f3ae09449ca7fbc8e9fc838, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b77f300ad18e52a4dbcf290d82c6798f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7913d92a335069641ba417d0fff7efd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70a7357a52cb6e54785cc6786e6d0502, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1438daa138a0c244926dda85c6e3453, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79cd5da6f0e04e4e8a49549c50f6f9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 814b8b0b3c1cc46469004202f01866cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08db3c7c6f8a85343adc3cac51987c6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49ae1f7ca5c49d74b9cfcd93b755f724, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7ce54dce68d2cf4c9e6bf0081a68c9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 792367ecc3875d6419f71819a7dc8b5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f01585dd3f73f4a45a4f6da375202377, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a78f9fdda5c7b6f4ca6fafd4ed934af1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bf1d15ea7876734b953200082e53a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b6a945ea7713634989c4e450d85c0a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9512f8ae21925c447a17c43e041a686a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e545eefb27fba42963787466892205, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff75a6fe7d238504db5b6485e000af69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a5a4af7f64bba0e41a0f06276ac697a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1347eaff1e31464395649305d87bad3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Weaponry/Attachements/RedDotsAndHolos/EotechHolosight1.prefab
+- Assets/Weaponry/Attachements/Goofball/BikeBell.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/MuzzleBrake_Impact.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Shift.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_Canted_Single.prefab
+- Assets/Weaponry/Attachements/IronSights/H416IronSights_Rear.prefab
+- Assets/Weaponry/Attachements/Bipods/Prefabs/MuzzleBipod.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/M233Scope1-24x.prefab
+- Assets/Weaponry/Attachements/Other/HandgunRailMount.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/AKFores/AKMFore_Shark.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/VD1.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/MuzzleBrake_Cobra.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/MT1.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/KDRRedDot.prefab
+- Assets/Weaponry/Attachements/IronSights/CantedSight_Front.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/MaximSilencer_Small_B.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Ober.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Shroud.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/Flagtachment_Classic.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/GamepointRDS.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/AKFores/AKMFore_B10.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/Pyramus3.prefab
+- Assets/Weaponry/Attachements/Goofball/BikeHornMuzzle.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/OKP7_OSA.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/Handstop_LTac.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/Magnifier2x.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/GhostDR.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/MRS.prefab
+- Assets/Weaponry/Attachements/Goofball/Loudener.prefab
+- Assets/Weaponry/Attachements/IronSights/H416IronSights_Front.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_MVG.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Corded_Tan.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/RailLight_Green.prefab
+- Assets/Weaponry/Attachements/AttachedWeapons/SpareKey_House.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/Sweaterpressor.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/MaximSilencer_Medium_B.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/SRS2.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Angled_Tan.prefab
+- Assets/Weaponry/Attachements/Goofball/GunNut.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Quadrant.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_TStyle.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/PK01VS.prefab
+- Assets/Weaponry/Attachements/IronSights/KnightSight_Forward.prefab
+- Assets/Weaponry/Attachements/IronSights/FoldingIronSights_RearSight.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/DocterSight_Large_Picatinny.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Salvo.prefab
+- Assets/Weaponry/Attachements/IronSights/FoldingIronSights_ForwardSight.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/Sako3x_12xScope.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/LCO.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/MeatmasCrackerpressor.prefab
+- Assets/Weaponry/Attachements/Goofball/TrainWhistleMuzzle.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/MuzzleBrake_Truepoint.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/Acog4x32.prefab
+- Assets/Weaponry/Attachements/Decoration/Prefab/RailCover_Short.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/NXS8x-32xScope.prefab
+- Assets/Weaponry/Attachements/IronSights/MPIronSights_Rear.prefab
+- Assets/Weaponry/Attachements/IronSights/ScorpionSights_Rear.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/MRORedDot.prefab
+- Assets/Weaponry/Attachements/Goofball/BikeHorn.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Mini.prefab
+- Assets/Weaponry/Attachements/Lasers/LaserAttachment1.prefab
+- Assets/Weaponry/Attachements/Other/HandgunRailMount_Long.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Aim5.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/Handstop_KAG.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/RailLight_Red.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/CuttsCompensator.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_ShiftShorty.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_Extender_GlitchGun.prefab
+- Assets/Weaponry/Attachements/Other/RailedShroud_Mini_Quad.prefab
+- Assets/Weaponry/Attachements/FlashLights/SureGlowLight.prefab
+- Assets/Weaponry/Attachements/IronSights/MPIronSights_Front.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Hitman.prefab
+- Assets/Weaponry/Attachements/Lasers/Mk23_LAM.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/KobraSight.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_RussianToPicatinny.prefab
+- Assets/Weaponry/Attachements/BarrelExtenders/BarrelExtension_3inch.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/PSO-1Scope.prefab
+- Assets/Weaponry/Attachements/AttachedWeapons/M203_Pictinny.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_Canted_Double_Long.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/BR4.prefab
+- Assets/Weaponry/Attachements/IronSights/IronSights_A2_Rear.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_AxisShift_Long.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/Flamenco6_1-6x.prefab
+- Assets/Weaponry/Attachements/AttachedWeapons/M203_Classic.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_Riser_Low.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_Extender_Long.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/Lion2-5x.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Boxy.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/MuzzleBrake_Charon.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_AxisShift_Tiny.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_AxisShift_Short.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Serb.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Wrapped.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/MaximSilencer_Large_B.prefab
+- Assets/Weaponry/Attachements/Stocks/Prefabs/Stock_TSA-G.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/MicroTorch.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_Canted_Double_Short.prefab
+- Assets/Weaponry/Attachements/Other/RailedShroud_Large.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_MLGAirhorn.prefab
+- Assets/Weaponry/Attachements/IronSights/KnightSight_Rear.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/MaximSilencer_Large_A.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Bottle.prefab
+- Assets/Weaponry/Attachements/IronSights/CantedSight_Rear.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_PBS1.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_OilFilter.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_MUS1.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/Tactical12-60xScope.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_PBS4.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Truefire.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Valk.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Chungus.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/ARCO.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/GamePointMagnifier.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/MaximSilencer_Medium_A.prefab
+- Assets/Weaponry/Attachements/Lasers/ANPEQ15.prefab
+- Assets/Weaponry/Attachements/Lasers/LaserAttachment5.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/RailLight_Purple.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_attachments.asset
+- Assets/Weaponry/Attachements/RedDotsAndHolos/SustenanceMP7Reflex.prefab
+- Assets/Weaponry/Attachements/IronSights/ScorpionSights_Front.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Triad.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/HAMScope4x24.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/M16_ARTScope.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/SRO2.prefab
+- Assets/Weaponry/Attachements/AttachedWeapons/SpareKey_Car.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_AxisTiltForward.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/MaximSilencer_Small_A.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Large.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/MuzzleBrake_Bomber.prefab
+- Assets/Weaponry/Attachements/FlashLights/KleshLight.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/MuzzleBrake_Triad.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Knight.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/EotechHolosight2.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/AKFores/AKMFore_Romanian.prefab
+- Assets/Weaponry/Attachements/Lasers/LaserAttachment2.prefab
+- Assets/Weaponry/Attachements/Stocks/Prefabs/Stock_GLR-440.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/M16_3x20Scope.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/Flagtachment.prefab
+- Assets/Weaponry/Attachements/Other/RailedShroud_Tall_Single.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/MuzzleBrake_Orbit.prefab
+- Assets/Weaponry/Attachements/Decoration/Prefab/RailCover_Medium.prefab
+- Assets/Weaponry/Attachements/Other/RailedShroud_Tall_Double.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/DocterSight_Picatinny.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/RailAttachments/RailAttachment_Antlers.prefab
+- Assets/Weaponry/Attachements/BarrelExtenders/BarrelExtension_6inch.prefab
+- Assets/Weaponry/Attachements/IronSights/IronSights_A2_Front.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_Riser_High.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/Flagtachment_Pride.prefab
+- Assets/Weaponry/Attachements/Lasers/LaserAttachment3.prefab
+- Assets/Weaponry/Attachements/Bipods/Prefabs/AttachableBipodA.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/EotechMagnifier3x.prefab
+- Assets/Weaponry/Attachements/MuzzleBrakes/Prefabs/MuzzleBrake_Sledge.prefab
+- Assets/Weaponry/Attachements/Other/RailedShroud_Single.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_LDAG.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/EG1.prefab
+- Assets/Weaponry/Attachements/Decoration/Prefab/RailCover_Long.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/RailLight_Blue.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_Corded.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_ZG106.prefab
+- Assets/Weaponry/Attachements/Other/RailedShroud_Mini_Single.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_Extender_Short.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_AxisTilt_DoubleSided.prefab
+- Assets/Weaponry/Attachements/Lasers/LaserAttachment4.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Angled_Black.prefab
+- Assets/Environment/_SceneSpecific/Xmas/Prefabs/RailAttachments/RailAttachment_RudolphNose.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/PK23RedDot.prefab
+- Assets/Weaponry/Attachements/Suppressors/Prefabs/Suppressor_HexBolter.prefab
+- Assets/Weaponry/Attachements/Funny/Prefabs/RailLight_Orange.prefab
+- Assets/Weaponry/Attachements/BarrelExtenders/BarrelExtension_9inch.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_AxisTilt.prefab
+- Assets/Weaponry/Attachements/FlashLights/TacticalFlashLight.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/M145.prefab
+Dependencies: []

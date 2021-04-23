@@ -1,0 +1,741 @@
+ManifestFileVersion: 0
+CRC: 1676142428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ac88008fe63aa0fed9ccc65095acac8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b9790ee5d89afa61fe576f477c523fe1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d00fb2b0f94284447a0f04eb7a1f42db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af40d4c0244b5c74fb6baca005fe5104, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 999b16224f47449458f21b1dad589114, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26a93af292da41b46a922c0ea43f8185, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea675a13437826e40a80b9a9e6decef8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0049093e2e2b2f4cb7428fe90e5c1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43fb6df36db55a24584a5ca55eb825c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dccc0d341856dd54aac28974eaaf9202, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb693544b61dc342b943b4bd324cdfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af2108f4beeee024ebe8d152a252d5f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cad09150c9892c43b9e1862e9b26ab4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ee891351a66ffa4591295473ddedfe0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6239047548369c54b998354f887dc715, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3b19236e46c807489deec9d0cd2087c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9358e86ffaa3cb46bc150f38c33f158, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afe8b7a61500cf749b1b01fe822b1997, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55dbd7b66d5e97c4da0c3cb29700d771, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa083fc66a05a414cad4593ad31869fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0dd64d6556b9ed47b1ba06106bf5000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cab98684da778f4f89c23770106206b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5cf16b84d5c6ea4dbd9771c9966332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efb492d80869bd54a8c2db0c5d5701af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 247cbf099e588614e957f9a4e1a3993c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb3038b96aee37342b3fae0b9cd07a67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 286bb3c9f94398c4db7e3bfae833daac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bc5669aae65e5540ba48129b38a4414, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cf4f7ca225ccf54991810fe3b44c76e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a178e8b92eb80248a813b78dce9da0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4720aecb8842c5647b4f6d2414a3821e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7118cdfb9aef90144b8b27e5757687e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb4ea0cb5962bc4890032bbe020b31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d86c01ce8c42ee44964281b2e5092fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a2ab58c94c921c48b22d6479d556465, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de02f0ec5332fb44fb9f35b63fc33e56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2c9041d93e1e9144a0497e2343875c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fad753d9871118449169213bf03e298, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ded4a3dbec4b5041bf6bd3a74960041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca22284d23646024093d7a9f9be9e132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43a88abd060c31d4a9ccf3adebd37ae3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b864224e0954a614fabe1902817f5876, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bf1d15ea7876734b953200082e53a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e545eefb27fba42963787466892205, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfbc405fc00cd1e4881536d7cd08e4c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c57ae97fc7e6f4e4ba5d4da87a0e0253, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffc693cfb420fab40bc11cde5010e419, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 164
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Brown.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Olive.prefab
+- Assets/Sosig/Accessory/WW2/Green/Sosigaccesory_ww2_helmet_green.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_Gladiator_Secutor.prefab
+- Assets/VirtualObjects/GronchMeatmas/GunHatCase.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_vest_plain.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_dusterTop_tan.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Tan.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_duster_black.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Prick.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/Pants/SosigAccessory_Tactical_LightPants_CamoForest.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_CadetCap_Brown.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/Backpacks/SosigAccessory_Tactical_FuelTank_Meatmas.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_HE_torso.prefab
+- Assets/Sosig/Accessory/WW2/Brown/Sosigaccesory_ww2_shirt_brown.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_HLHE.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Red.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_MinerHelmet.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_MP7.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_CadetCap_Grey.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/Armor/SosigAccessory_Tactical_LightArmour_CamoDesert.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Yukonhat_PlaidRed.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_CombatCap_Green.prefab
+- Assets/Sosig/Sosiggun/Desperado/Sosiggun_Desperado_Gatling.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Jackhammer.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/Armor/SosigAccessory_Tactical_LightArmour_RedYellow.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_opencrown_grey.prefab
+- Assets/Sosig/Sosiggun/FutureSosiggun/Sosiggun_Nachtigal.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Truckerhat_Red.prefab
+- Assets/Sosig/Sosiggun/Desperado/Sosiggun_Desperado_Trapdoor.prefab
+- Assets/Sosig/Accessory/Gladiator/Helmet/SosigAccessory_Gladiator_Helmet_Porcus.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_RangerHat_Tan.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/FaceArmor/SosigAccessory_Tactical_WelderMask_Swat.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_FootballHelmet_Hamfister.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_StunBaton.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SN_torso.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Yukonhat_Olive.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_stovepipe_grey.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_LightGrey.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SN_glasses.prefab
+- Assets/Sosig/Sosiggun/Desperado/Sosiggun_Desperado_LeverAction.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/FaceArmor/SosigAccessory_Tactical_Goggles_Swat.prefab
+- Assets/Sosig/Accessory/Gladiator/Helmet/SosigAccessory_Gladiator_Helmet_Hoplite.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_SingleColor_Ultramarine.prefab
+- Assets/Sosig/Accessory/WW2/Grey/Sosigaccesory_ww2_combatcap_grey.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Cloche_Lilac.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_DM_hat.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_Fast_1.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Brown.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_gambler_brown.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Beanie_Brown.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_duster_brown.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Baton.prefab
+- Assets/Sosig/Accessory/Gladiator/Helmet/SosigAccessory_Gladiator_Helmet_Murmillo.prefab
+- Assets/Sosig/Accessory/Gladiator/Armor/SosigAccessory_Gladiator_Armor_Maximus.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_trilby_grey.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_MedievalCowl_Body.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_GeneralCap_Green.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Beanie_Forest.prefab
+- Assets/Sosig/Accessory/Gladiator/Armor/SosigAccessory_Gladiator_Armor_Plated.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Yellow.prefab
+- Assets/Sosig/Bodies/Sosig_JunkBody_A.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_CadetCap_Green.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_Revolver.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_Helmet_CamoIce.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Green.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_PY_torso.prefab
+- Assets/Sosig/Accessory/HL/OverwurstElite/Sosig_HalfLife_OverwatchElite_Leg.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Black.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_Beanie_Jean.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_RangerHat_Green.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Yukonhat_Sienna.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Paddle.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_P90.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Truckerhat_Tan.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_Helmet_CamoDesert.prefab
+- Assets/Sosig/Accessory/Common/Hats/Sosigaccesory_Balaklava_Grey.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_RangerHat_Brown.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_CombatCap_Tan.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_FootballPads_HamFisters.prefab
+- Assets/Sosig/Accessory/HL/HEV/Sosig_HEVsuit_torso.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/FaceArmor/SosigAccessory_Tactical_WelderMask_CamoDesert.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SP_ciggie.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/Armor/SosigAccessory_Tactical_MediumArmour_Swat.prefab
+- Assets/Sosig/Sosiggun/PacificationSquadGuns/Sosiggun_Pacification_Scout.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_AA12.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SN_glasses.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Hung.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_Sunhat.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_Gladiator_Hoplite.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Millitarycap_Yellow.prefab
+- Assets/Sosig/Accessory/WW2/Brown/Sosigaccesory_ww2_pants_brown.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_gambler_grey.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Truckerhat_BlueWhite.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/Helmet/SosigAccessory_Tactical_Helmet_CamoForest.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_Helmet_CamoForest.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Purple.prefab
+- Assets/Sosig/Accessory/Agent/Sosig_Agent_Shades_3.prefab
+- Assets/Sosig/Sosiggun/PacificationSquadGuns/Sosiggun_Pacification_Mp5SD.prefab
+- Assets/Sosig/Accessory/WW2/_Base/Sosigaccesory_ww2_flamethrowertank.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Green.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_ME_top.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/Backpacks/SosigAccessory_Tactical_FuelTank_CamoForest.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_SingleColor_Yellow.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Spurter.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_PY_mask.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_Frag_WW2.prefab
+- Assets/VirtualObjects/GronchMeatmas/GunHatCaseKey.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_BB_Truckerhat_No1.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_OpenCrown_Grey.prefab
+- Assets/Sosig/Sosiggun/Desperado/Sosiggun_Desperado_ColtNavy.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_DP12.prefab
+- Assets/Sosig/Bodies/Sosig_FireProof.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Green.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_FootballHelmet_BeefKickers.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_M14EBR.prefab
+- Assets/Sosig/Accessory/WW2/Brown/Sosigaccesory_ww2_backpack_brown.prefab
+- Assets/Sosig/Accessory/Agent/Sosig_Agent_Suit_Torso.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_sherifbody.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_ClassicHelmet_Brown.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SP_waist.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/FaceArmor/SosigAccessory_Tactical_Goggles_CamoForest.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/Pants/SosigAccessory_Tactical_HeavyPants_RedYellow.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_Brown.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_gambler_black.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_duster_red.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_PY_mask.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_Squares_Blue.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_Flowers_Yellow.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_MinerHelmet.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_RA_Bascinet.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Truckerhat_Black.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_bowler_brown.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_SingleColor_Orange.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_tophat_grey.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SC_pants.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_PorkPie_Brown.prefab
+- Assets/Sosig/Accessory/WW2/Grey/Sosigaccesory_ww2_shirt_grey.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_Umber.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_Uzi45.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_SingleColor_Brown.prefab
+- Assets/Sosig/Accessory/Meatmas/Sosig_Christmas_Santa_Hat.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_SingleColor_Violet.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_RA_DunceCap.prefab
+- Assets/Sosig/Accessory/Meatmas/Sosig_Christmas_Elf_Hat_Red.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/Pants/SosigAccessory_Tactical_LightPants_RedYellow.prefab
+- Assets/Sosig/Accessory/Gladiator/Helmet/SosigAccessory_Gladiator_Helmet_Secutor.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_tophat_blue.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/Armor/SosigAccessory_Tactical_HeavyArmour_CamoIce.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Grey.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_Yukonhat_PlaidRed.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Cloche_White.prefab
+- Assets/Agents/Prefabs/Turburgert/Turburgert_Flak.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Yukonhat_Red.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_fisherman_black.prefab
+- Assets/Agents/Prefabs/Turburgert/Turburgert_SMG.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Blue.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_HE_pants.prefab
+- Assets/Sosig/Accessory/HL/OverwurstSoldier/Sosig_HalfLife_OverwatchSoldier_Torso.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_Boater.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_EN_goggles.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_Black.prefab
+- Assets/Sosig/Accessory/WW2/Green/Sosigaccesory_ww2_backpack_green.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_vest_striped.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_fisherman_grey.prefab
+- Assets/Sosig/Accessory/WW2/Grey/Sosigaccesory_ww2_generalcap_grey.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_Tanto.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_boater_grey.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/FaceArmor/SosigAccessory_Tactical_Goggles_RedYellow.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_Millitarycap_Black.prefab
+- Assets/Sosig/Sosiggun/Zosig/Sosiggun_Spiker.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Lumberjack_Risen.prefab
+- Assets/Sosig/Accessory/WW2/Brown/Sosigaccesory_ww2_combatcap_brown.prefab
+- Assets/Agents/Prefabs/Turburgert/Turburgert_Flamethrower.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/Armor/SosigAccessory_Tactical_LightArmour_Meatmas.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/Pants/SosigAccessory_Tactical_HeavyPants_Meatmas.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_Yukonhat_Olive.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Undershirt/SosigAccessory_MountainMeat_Undershirt_White.prefab
+- Assets/Sosig/Sosiggun/Zosig/Sosiggun_Barfer.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_Shield_Riot.prefab
+- Assets/Weaponry/MF2/_Buildables/MiniTurburgert_Blue.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_MF2_Demo.prefab
+- Assets/Agents/Prefabs/Turburgert/Turburgert_Machinegun.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_opencrown_tan.prefab
+- Assets/Sosig/Sosiggun/Zosig/Sosiggun_Flamer.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Hatchet_Large.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_EN_helmet.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_RA_MF2_Sniper.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_RA_tophat_black.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_RustySword.prefab
+- Assets/Sosig/Accessory/WW2/Tan/Sosigaccesory_ww2_pants_tan.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Red.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Crimson.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_pinchedfront_pearl.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_southwestponcho_yellow.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_dusterTop_red.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_Gladiator_Eques.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/FaceArmor/SosigAccessory_Tactical_Goggles_CamoIce.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SP_torso.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_southwestponcho_red.prefab
+- Assets/Sosig/Accessory/HL/OverwurstSoldier/Sosig_HalfLife_OverwatchSoldier_Leg.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_RPG7.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Jacket/SosigAccessory_MountainMeat_Jacket_Flannel.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/Backpacks/SosigAccessory_Tactical_Backpack_CamoIce.prefab
+- Assets/Sosig/Accessory/WW2/Grey/Sosigaccesory_ww2_backpack_grey.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_GeneralCap_Brown.prefab
+- Assets/Sosig/Accessory/Breadcrab/BreadCrab_Poison.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Yukonhat_Navy.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_OldSmokey.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Jacket/SosigAccessory_MountainMeat_Jacket_Jean.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SC_top.prefab
+- Assets/Sosig/Accessory/Common/Hats/Sosigaccesory_Balaklava_Brown.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_MF2_Engineer.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/Armor/SosigAccessory_Tactical_LightArmour_CamoIce.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SP_torso.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_DM_torso.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_pinchedfront_grey.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_southwestponcho_brown.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_DM_waist.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_duster_tan.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Tan.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_GrilledAlt.prefab
+- Assets/Sosig/Accessory/WW2/Tan/Sosigaccesory_ww2_combatcap_tan.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_1.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Beanie_Jean.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/Armor/SosigAccessory_Tactical_MediumArmour_RedYellow.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_Parazonium.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SC_headset.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/Helmet/SosigAccessory_Tactical_Helmet_RedYellow.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Brown.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/Backpacks/SosigAccessory_Tactical_Backpack_Meatmas.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Beanie_Black.prefab
+- Assets/Sosig/Accessory/HL/UncivilErection/Sosig_HL_UncivilErection_Leg.prefab
+- Assets/Sosig/Accessory/Agent/Sosig_Agent_Suit_Abdo.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_GoalieMask.prefab
+- Assets/Sosig/Accessory/HL/OverwurstSoldier/Sosig_HalfLife_OverwatchSoldier_Helmet.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_MF2_Soldier.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_ClassicHelmet_Green.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_CombatCap_Grey.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_Tan.prefab
+- Assets/Sosig/Accessory/WW2/Brown/Sosigaccesory_ww2_generalcap_brown.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_PY_pants.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SN_hat.prefab
+- Assets/Sosig/Accessory/Tactical/SosigAccessory_Tactical_GasMask2.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Grey.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Grey.prefab
+- Assets/Sosig/Accessory/Breadcrab/BreadCrab.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/Armor/SosigAccessory_Tactical_HeavyArmour_Swat.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/FaceArmor/SosigAccessory_Tactical_WelderMask_CamoIce.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_pinchedfront_brown.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_dusterTop_black.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/Pants/SosigAccessory_Tactical_LightPants_Meatmas.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_Flowers_BabyBlue.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_870.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_DM_beard.prefab
+- Assets/Sosig/Sosiggun/Desperado/Sosiggun_Desperado_1887.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_RangerHat_Black.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_MedievalCowl_Head.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_Crowbar.prefab
+- Assets/Sosig/Accessory/WW2/Tan/Sosigaccesory_ww2_backpack_tan.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/Pants/SosigAccessory_Tactical_HeavyPants_CamoDesert.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_Olive.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Grey.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_HLHEHeld.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Lemonhead.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_EN_helmet.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Blue.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_EN_belt.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_Flowers_Rose.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/Armor/SosigAccessory_Tactical_HeavyArmour_Meatmas.prefab
+- Assets/Sosig/Sosiggun/Zosig/Sosiggun_RelishSquirter.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_RA_Helmet_MercWiener.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_Squares_Red.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/Backpacks/SosigAccessory_Tactical_FuelTank_RedYellow.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_BB_Gladiator_Porcus.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_Gladiator_Murmillo.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_Smoke.prefab
+- Assets/Sosig/Accessory/Breadcrab/BreadCrab_Fast.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/Armor/SosigAccessory_Tactical_LightArmour_Swat.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_pinchedfront_tan.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_PoisonBreadCrab.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_gambler_crimson.prefab
+- Assets/Sosig/Accessory/Gladiator/Helmet/SosigAccessory_Gladiator_Helmet_Maximus.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_Beanie_Crimson.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_M1carbine.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Black.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Truckerhat_GreenWhite.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_porkpie_black.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SN_pants.prefab
+- Assets/Agents/Prefabs/Turburgert/Turburgert_Suppresion.prefab
+- Assets/Sosig/Sosiggun/Desperado/Sosiggun_Desperado_ColtArmy.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_Tommy.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Yukonhat_PlaidWarm.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_FunGuy.prefab
+- Assets/Sosig/Accessory/WW2/Tan/Sosigaccesory_ww2_helmet_tan.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Blue.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SC_hat.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_Millitarycap_Blue.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_GoalieMask.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_ME_glasses.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Grilled.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_southwestponcho_tan.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_Bazooka.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_ME_top.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_dusterTop_brown.prefab
+- Assets/Sosig/Accessory/HL/OverwurstElite/Sosig_HalfLife_OverwatchElite_Torso.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Brown.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_bowler_grey.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Undershirt/SosigAccessory_MountainMeat_Undershirt_Brown.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_Elf_Hat_Green.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_SPAS12.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_ME_glasses.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_DM_torso.prefab
+- Assets/Sosig/Accessory/WW2/Brown/Sosigaccesory_ww2_helmet_brown.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Tartan_Black.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SO_torso.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_HE_torso.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/Helmet/SosigAccessory_Tactical_Helmet_CamoDesert.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Beanie_Tan.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_SafteyGoggles.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_2.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_Garand.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_RA_StovePipe_Grey.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_M1911.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_ME_pants.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_WarClub.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_vest_brocade.prefab
+- Assets/Sosig/Accessory/Gladiator/Armor/SosigAccessory_Gladiator_Armor_Shoulder.prefab
+- Assets/Sosig/Accessory/HL/UncivilErection/Sosig_HL_UncivilErection_Torso.prefab
+- Assets/Sosig/Sosiggun/FutureSosiggun/Sosiggun_Bullpov.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_Poison_1.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Yellow.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/Helmet/SosigAccessory_Tactical_Helmet_Swat.prefab
+- Assets/Sosig/Sosiggun/FutureSosiggun/Sosiggun_DesertVulture.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_CombatCap_Brown.prefab
+- Assets/Sosig/Accessory/Agent/Sosig_Agent_Shades_2.prefab
+- Assets/Sosig/Sosiggun/PacificationSquadGuns/Sosiggun_Pacification_M16.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SN_torso.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Torch.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_Glock.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_FootballPads_BeefKickers.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_JeanDark.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_GlockSuppressed.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Millitarycap_Black.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Floater.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_NormanCasquev2.prefab
+- Assets/Sosig/Accessory/HL/OverwurstSoldier/Sosig_HalfLife_OverwatchSoldier_Abdo.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_GeneralCap_Tan.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Spade.prefab
+- Assets/Sosig/Accessory/WW2/Tan/Sosigaccesory_ww2_shirt_tan.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/Helmet/SosigAccessory_Tactical_Helmet_CamoIce.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_banditponcho_red.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_BAR.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Jacket/SosigAccessory_MountainMeat_Jacket_Green.prefab
+- Assets/Sosig/Sosiggun/Desperado/Sosiggun_Desperado_Derringer.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_M79.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_USP.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_Mac11_380.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SO_pants.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Millitarycap_Blue.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_PinchedFront_Pearl.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_EN_torso.prefab
+- Assets/Sosig/Accessory/HL/HEV/Sosig_HEVsuit_leg.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_tophat_brown.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Navy.prefab
+- Assets/Sosig/Accessory/WW2/Tan/Sosigaccesory_ww2_generalcap_tan.prefab
+- Assets/Sosig/Bodies/_PlayerBody_Torso.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_banditponcho_tan.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/Pants/SosigAccessory_Tactical_HeavyPants_CamoForest.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Boner.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/FaceArmor/SosigAccessory_Tactical_Goggles_CamoDesert.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_Helmet_Shotdog.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_fisherwiener_brown.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_HE_pants.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SP_hat.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_Gladius.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Undershirt/SosigAccessory_MountainMeat_Undershirt_Green.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Millitarycap_Green.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SO_helmet.prefab
+- Assets/Sosig/Sosiggun/FutureSosiggun/Sosiggun_MeatleStorm.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_Polkadots.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_bowler_grey.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_Frag.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/Pants/SosigAccessory_Tactical_LightPants_CamoIce.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SP_waist.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_ClassicHelmet_Grey.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Hatchet.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/FaceArmor/SosigAccessory_Tactical_WelderMask_RedYellow.prefab
+- Assets/Sosig/Accessory/Gladiator/Armor/SosigAccessory_Gladiator_Armor_Plated_Rust.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_Flamethrower.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_JeanNew.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_HotDogs.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SN_pants.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_BB_Armet.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_DM_hat.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_EN_goggles.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_FootballHelmet_HamFisters.prefab
+- Assets/Sosig/Sosiggun/FutureSosiggun/Sosiggun_PocketToaster.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SC_top.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_Flash.prefab
+- Assets/Sosig/Accessory/Desperado/Torso/Sosig_desperado_torso_banditponcho_crimson.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/Pants/SosigAccessory_Tactical_LightPants_CamoDesert.prefab
+- Assets/Sosig/Sosiggun/Zosig/Sosiggun_FungusMortar.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_DM_beard.prefab
+- Assets/Sosig/Accessory/Gladiator/Armor/SosigAccessory_Gladiator_Armor_Leather.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_CadetCap_Tan.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Truckerhat_Grey.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_PY_pants.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_Meathack.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_trilby_tan.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_stovepipe_black.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SO_torso.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_Gambler_Crimson.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SC_headset.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_Mp5SD.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Tan.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_M60.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/Backpacks/SosigAccessory_Tactical_FuelTank_Swat.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Undershirt/SosigAccessory_MountainMeat_Undershirt_Tan.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_C1903.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_pinchedfront_black.prefab
+- Assets/Sosig/Accessory/HL/UncivilErection/Sosig_HL_UncivilErection_Helmet.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_tophat_black.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_GeneralCap_Grey.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SP_ciggie.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids__sosig.asset
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_opencrown_black.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/Backpacks/SosigAccessory_Tactical_Backpack_CamoForest.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/Armor/SosigAccessory_Tactical_LightArmour_CamoForest.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_SingleColor_White.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_RA_SantaHat.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/Armor/SosigAccessory_Tactical_HeavyArmour_RedYellow.prefab
+- Assets/Sosig/Accessory/Tactical/SosigAccessory_Tactical_WelderMask_LEMON.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/Backpacks/SosigAccessory_Tactical_Backpack_Swat.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Millitarycap_Brown.prefab
+- Assets/Sosig/Sosiggun/HL/Sosiggun_PulseRifle.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_Flowers_Lilac.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SC_hat.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/Armor/SosigAccessory_Tactical_HeavyArmour_CamoForest.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Pitchfork.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/Armor/SosigAccessory_Tactical_HeavyArmour_CamoDesert.prefab
+- Assets/Sosig/Bodies/Sosig_Pacification.prefab
+- Assets/Sosig/Accessory/HL/OverwurstElite/Sosig_HalfLife_OverwatchElite_Abdo.prefab
+- Assets/Sosig/Accessory/WW2/Green/Sosigaccesory_ww2_shirt_green.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_Green.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_Deagle.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/Armor/SosigAccessory_Tactical_MediumArmour_CamoIce.prefab
+- Assets/Sosig/Accessory/WW2/Green/Sosigaccesory_ww2_pants_green.prefab
+- Assets/Sosig/Accessory/Gladiator/Helmet/SosigAccessory_Gladiator_Helmet_Thraex.prefab
+- Assets/Sosig/Accessory/WW2/Grey/Sosigaccesory_ww2_helmet_grey.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Cloche_SkyBlue.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Yukonhat_PlaidCool.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_ClassicHelmet_Tan.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Purple.prefab
+- Assets/Sosig/Accessory/Agent/Sosig_Agent_Suit_Pants.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_Poison_3.prefab
+- Assets/Sosig/Accessory/Agent/Sosig_Agent_Shades_1.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_Tomahawk.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_M16.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_BabyBlue.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/Backpacks/SosigAccessory_Tactical_Backpack_CamoDesert.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_Cloche_SkyBlue.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Daisydukes.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_NooseBag.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_fisherman_brown.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_Truckerhat_BlueWhite.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_Gladiator_Thraex.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Cloche_Daisy.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Tan.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MR_Barbute.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_porkpie_grey.prefab
+- Assets/Sosig/Sosiggrenade/Sosiggrenade_Incendiary.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/Pants/SosigAccessory_Tactical_HeavyPants_Swat.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_PY_torso.prefab
+- Assets/Sosig/Bodies/Rotwieners/Zosig_Rot.prefab
+- Assets/Sosig/Sosiggun/PacificationSquadGuns/Sosiggun_Pacification_GlockSuppressed.prefab
+- Assets/Sosig/Accessory/WW2/Grey/Sosigaccesory_ww2_pants_grey.prefab
+- Assets/Sosig/Bodies/Sosig.prefab
+- Assets/Sosig/Accessory/HL/UncivilErection/Sosig_HL_UncivilErection_Abdo.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_BB_PropellerCap.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Black.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_White.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/Pants/SosigAccessory_Tactical_HeavyPants_CamoIce.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SO_helmet.prefab
+- Assets/Weaponry/MF2/_Buildables/MiniTurburgert_Red.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_SingleColor_Black.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Beanie_Crimson.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_3.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Truckerhat_No1.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_ME_KettleHelmet.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_Cloche_Daisy.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Cloche_Cream.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/Armor/SosigAccessory_Tactical_MediumArmour_CamoForest.prefab
+- Assets/Sosig/Accessory/WW2/Grey/Sosigaccesory_ww2_normalcap_grey.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_Pickaxe.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SC_pants.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Sunhat.prefab
+- Assets/Sosig/Accessory/Gladiator/Helmet/SosigAccessory_Gladiator_Helmet_Eques.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Priest.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/Armor/SosigAccessory_Tactical_MediumArmour_CamoDesert.prefab
+- Assets/Sosig/Accessory/HL/OverwurstElite/Sosig_HalfLife_OverwatchElite_Helmet.prefab
+- Assets/Sosig/Accessory/HL/HEV/Sosig_HEVsuit_abdo.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_ME_pants.prefab
+- Assets/Sosig/Accessory/Tactical/CamoDesert/Backpacks/SosigAccessory_Tactical_FuelTank_CamoDesert.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Jacket/SosigAccessory_MountainMeat_Jacket_Orange.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_BB_FootballHelmet_BeefKicker.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_EN_belt.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Jacket/SosigAccessory_MountainMeat_Jacket_Brown.prefab
+- Assets/Sosig/Accessory/Tactical/Swat/Pants/SosigAccessory_Tactical_LightPants_Swat.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_F2000.prefab
+- Assets/Sosig/Accessory/WW2/Brown/Sosigaccesory_ww2_normalcap_brown.prefab
+- Assets/Sosig/Accessory/WW2/Green/Sosigaccesory_ww2_combatcap_green.prefab
+- Assets/Sosig/Accessory/Meatmas/Sosig_Christmas_Elf_Jacket_Red.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_Cloche_Black.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_BB_MF2_Scout.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Workshirt/SosigAccessory_MountainMeat_Workshirt_Mustard.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_Shield_Roman2.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_Scout.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_EN_torso.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/FaceArmor/SosigAccessory_Tactical_Goggles_Meatmas.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_Grey.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_Poison_2.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_RangerHat_Umber.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_porkpie_brown.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_stovepipe_blue.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SP_hat.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Red.prefab
+- Assets/Sosig/Accessory/MountainMeat/Pants/SosigAccessory_MountainMeat_Pants_JeanWorn.prefab
+- Assets/Sosig/Accessory/HL/HEV/Sosig_HEVsuit_glasses.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Undershirt/SosigAccessory_MountainMeat_Undershirt_Blue.prefab
+- Assets/Sosig/Accessory/Tactical/RedYellow/Backpacks/SosigAccessory_Tactical_Backpack_RedYellow.prefab
+- Assets/Sosig/Bodies/Sosig_BulkyArmor.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Plain_Yellow.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_SN_hat.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_WD_Truckerhat_GreenWhite.prefab
+- Assets/Sosig/Sosiggun/Desperado/Sosiggun_Desperado_DoubleBarrel.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/Armor/SosigAccessory_Tactical_MediumArmour_Meatmas.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_Fast_2.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_Generic_SpinnyHat.prefab
+- Assets/Sosig/Accessory/Common/Hats/Sosigaccesory_Balaklava_Blue.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_MW_RangerHat_Tan.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_bowler_black.prefab
+- Assets/Sosig/Accessory/Desperado/Hats/sosigaccessory_desperado_hat_trilby_black.prefab
+- Assets/Sosig/Accessory/MF/Red/Sosigaccesory_MF2_Red_SO_pants.prefab
+- Assets/Sosig/Accessory/Common/Hats/SosigAccessory_Common_NooseBag.prefab
+- Assets/Sosig/Accessory/Tactical/SosigAccessory_Tactical_GasMask1.prefab
+- Assets/Sosig/Sosigmelee/Rotwieners/SosigMelee_FishingSpear.prefab
+- Assets/Sosig/Accessory/WW2/Green/Sosigaccesory_ww2_generalcap_green.prefab
+- Assets/Sosig/Accessory/HL/Zombies/Sosigaccesory_BreadCrab_Fast_3.prefab
+- Assets/Sosig/Sosigmelee/Sosigmelee_SpikedClub.prefab
+- Assets/Sosig/Accessory/Common/Hats/Sosigaccesory_Balaklava_Green.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/Helmet/SosigAccessory_Tactical_Helmet_Meatmas.prefab
+- Assets/Sosig/Accessory/MountainMeat/Shirts/Jacket/SosigAccessory_MountainMeat_Jacket_Black.prefab
+- Assets/Sosig/Accessory/MountainMeat/Hats/SosigAccessory_MountainMeat_Millitarycap_Tan.prefab
+- Assets/Weaponry/Attachements/RailHats/RailHat_RA_Gladiator_Maximus.prefab
+- Assets/Sosig/Accessory/Tactical/CamoForest/FaceArmor/SosigAccessory_Tactical_WelderMask_CamoForest.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_M1917.prefab
+- Assets/Sosig/Accessory/Tactical/SosigAccessory_Tactical_GasMask3.prefab
+- Assets/Sosig/Accessory/Common/Torso/SosigAccessory_Common_Blouse_SingleColor_Lime.prefab
+- Assets/Sosig/Accessory/Common/Face/SosigAccessory_Common_Bandana_Paisley_Purple.prefab
+- Assets/Sosig/Accessory/WW2/Tan/Sosigaccesory_ww2_normalcap_tan.prefab
+- Assets/Sosig/Sosiggun/Modern/Sosiggun_AKM.prefab
+- Assets/Sosig/Accessory/MF/Blue/Sosigaccesory_MF2_Blue_DM_waist.prefab
+- Assets/Sosig/Sosiggun/WW2/Sosiggun_W1897.prefab
+- Assets/Sosig/Accessory/Tactical/CamoIce/Backpacks/SosigAccessory_Tactical_FuelTank_CamoIce.prefab
+- Assets/Sosig/Accessory/Tactical/Meatmas/FaceArmor/SosigAccessory_Tactical_WelderMask_Meatmas.prefab
+- Assets/Sosig/Accessory/WW2/Green/Sosigaccesory_ww2_normalcap_green.prefab
+Dependencies:
+- C:/H3/H3VRU56/Assets/StreamingAssets/assets_resources_objectids_weaponry_ammunition

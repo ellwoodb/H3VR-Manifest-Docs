@@ -1,0 +1,495 @@
+ManifestFileVersion: 0
+CRC: 1782690610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a41fa2a740366a73347a8b2acc574418
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27865423e4a411a10c729af9b9529938
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a7b600081cb3554aa9f1b0e41f0a086, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5092ec00c3c37e848944b7b7e5e0418d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4494fb8050b3e8a4d89ed858a8e2e6a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed123f619b1cf5d4dbb4879246fb60bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f32d781b76ae444588664d28fa57d50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34142c81422399041b037781e79e55be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12b611a1bf6e791439819950f3aed49f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52b9dfa11c51d5d4eb5b2db243a44627, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b05518b11fb369641a0cfd3381b18e51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19f11952c7165634ea3b7517476f611f, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c6bb272f918ba84d99e0c680262d8e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6009f692b9c0cc043913aec2217f59c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b3c2a92b46f1b349b38e22407937eae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 903d88a29329489439652ad217a8d3e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85bc8a234ba0354e82d72ce5e8ea445, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e7ed4830ada235439ca0c0c43f7f44a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0049093e2e2b2f4cb7428fe90e5c1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1170d93b2bf9554d9d860967b71788f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8ef18a3014da524fb9562fe83b726b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc674bd388898634c951ce7e033c9c4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162ef8944c64ebb479a963cd9d78b2d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf52a4c42690f4d4b94f7eb4cb2c0932, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddb83ec4da00c42428e33d4f5c90da2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b175af41a70a5440b23364a81928f55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9cc52f15d4523ed4d9f13181a14858fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ee891351a66ffa4591295473ddedfe0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a98c2c5ad502354c9783968fbaf0ccd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e056590682b3a1f4f86fc4d2f0b69595, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb393416febbc074e847ed998aa75e3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbc706867a32fca4ca17060054ed7cb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ede517c1ed0fa489b6c0df12dc63a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8edb8637fafe06e4785113d74492fc4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a3d4808652a1fc4aa924d800e9cb0e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f0fc0481d7a5404ca285ff9ccb8ca30, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6c02a857bc22b40b381a71c6da0c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66b2e9b8ab97c214284e72c538572e8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4c228f8ba1fcdd4eb4710e5795fbe7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e164c391f3af734aa615d179e8fb38f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b48da799d9b8ea449128b7146e96a18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af337a89d3df4ef4fb98fca9281d4927, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 870593b95a8fae949924b5f6fe5227ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0594d0f9efbc26245a6d4e0efa31b14e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b77f300ad18e52a4dbcf290d82c6798f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a80398a53e22214b91a18897a9cd6e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 814b8b0b3c1cc46469004202f01866cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 141a907b05f656648850e43c9b1a344c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08db3c7c6f8a85343adc3cac51987c6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b58049cdd9387c4d8dfce21b19cebde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad210b9c616b5bd40ac5cc7550f5a586, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74f33a1d7e6f5de4f84204223b32b3bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c396ba1d82028b34c91e84bf0ad391f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c055c53dfe6767a4083f6f75dead7398, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ded4a3dbec4b5041bf6bd3a74960041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddd0988d28278e6499db3ca85f76f97c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8339769d49b88f54a84b5b1830b0c00f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fc1e3ad3c3a9ec428936a664c493cca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a78f9fdda5c7b6f4ca6fafd4ed934af1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bf1d15ea7876734b953200082e53a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b6a945ea7713634989c4e450d85c0a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac1fac7e7619f6c4091e031de33f190b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9512f8ae21925c447a17c43e041a686a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e545eefb27fba42963787466892205, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff75a6fe7d238504db5b6485e000af69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e3af84f6e644534fa3b1516a0e53ed3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a5a4af7f64bba0e41a0f06276ac697a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bd140bf747235445aa0853087700c9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f8948cfef5132e4faaad67c0fa0e23c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Weaponry/RifleBoltAction/Magazines/Hecate2_Mag.prefab
+- Assets/Weaponry/LeverAction/RioBigBore.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/XM500_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Galil_Magazine_762.prefab
+- Assets/Weaponry/RifleClosedBolt/M4A1_Classic.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AugA3_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/AKM.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKM_Magazine_Tactical_30rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/EM2.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/SG550_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/M107A1.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/BerthierCarbine_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_Stanag_60rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/M16A4.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_Spatula.prefab
+- Assets/Weaponry/RifleClosedBolt/SKSModern.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/NTW20_Mag.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M1Carbine_Magazine_20rnd.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_SG.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/VZ58_Magazine_30Round.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/WA2000_Magazine.prefab
+- Assets/Weaponry/LeverAction/Winchester1873.prefab
+- Assets/Weaponry/RifleClosedBolt/Bren807.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/Model81_W330_Scope.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_Stanag_Drum.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AugA1_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/CX4.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/Evo3_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Bren806.prefab
+- Assets/Weaponry/RifleClosedBolt/M4A1_V2_RightHook.prefab
+- Assets/Weaponry/RifleBoltAction/Mosin_M38.prefab
+- Assets/Weaponry/LeverAction/Winchester1894.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Sport1022_Magazine_25.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/Sako85_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Stoner63AR.prefab
+- Assets/Weaponry/RifleClosedBolt/M14.prefab
+- Assets/Weaponry/RifleClosedBolt/FNFalPara.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/SVT40_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/G3SG1.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_Stanag_100rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Mk17_Magazine.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_Mas4956.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKM_Drum.prefab
+- Assets/Weaponry/RifleClosedBolt/H51A2.prefab
+- Assets/Weaponry/RifleClosedBolt/P762.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Bren807_Magazine.prefab
+- Assets/Weaponry/RifleBoltAction/DeLisleCarbine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/ASVal_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/G36.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/G11_Mag.prefab
+- Assets/Weaponry/RifleBoltAction/ShortySOC8400.prefab
+- Assets/Weaponry/RifleClosedBolt/M4A1_V2_LeftHook.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_AK.prefab
+- Assets/Weaponry/RifleClosedBolt/FamasF1.prefab
+- Assets/Weaponry/LeverAction/RioBigBore_Salvaged.prefab
+- Assets/Weaponry/RifleClosedBolt/M1D_Scope.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M1Garand_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_Stanag_30rnd.prefab
+- Assets/Weaponry/RifleBoltAction/AWM.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKS74U_Magazine_10rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Mk18Mod1.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M1600_Drum.prefab
+- Assets/Weaponry/RifleClosedBolt/AK101.prefab
+- Assets/Weaponry/Handguns/Kalishniluger.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/Evo3_Magazine_20rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/MadsenLAR_Magazine_30rnd.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_Stand.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/LeeEnfield_Mag.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AK101_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/WA2000.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/FalMag_10rnd_Magazine.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/G36Scope.prefab
+- Assets/Weaponry/RifleClosedBolt/AKS74UTactical.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/FalMag_30rnd_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/M4A1_HandleSight.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_M1.prefab
+- Assets/Weaponry/RifleClosedBolt/AK12_Prototype.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/G36_MG36Drum.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_Stanag_5rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/G3A3_Drum.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKM_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/AKS74U.prefab
+- Assets/Weaponry/RifleClosedBolt/XM500.prefab
+- Assets/Weaponry/RifleBoltAction/LeeEnfieldObrez.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKM_Heirloom_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Stoner63AR_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/M1Carbine.prefab
+- Assets/Weaponry/Handguns/MauserAssaultCarbine.prefab
+- Assets/Weaponry/RifleClosedBolt/Mk16Mod0.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/FalMag_20rnd_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_Stanag_30rnd_v3.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M2Carbine_Magazine_30rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/AK12.prefab
+- Assets/Weaponry/RifleClosedBolt/VZ58_Custom.prefab
+- Assets/Weaponry/RifleBoltAction/Sako85.prefab
+- Assets/Weaponry/RifleClosedBolt/M1600.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Sport1022_Magazine_10.prefab
+- Assets/Weaponry/RifleBoltAction/Model70.prefab
+- Assets/Weaponry/RifleBoltAction/Hecate2.prefab
+- Assets/Weaponry/RifleClosedBolt/Commando552_Tactical.prefab
+- Assets/Weaponry/RifleClosedBolt/SVT40.prefab
+- Assets/Weaponry/RifleClosedBolt/VZ58_Compact.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/VZ58_Magazine_20Round.prefab
+- Assets/Weaponry/RifleBoltAction/NTW20.prefab
+- Assets/Weaponry/LeverAction/Henry1860.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/CX4_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/M1Garand.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AK74_Drum.prefab
+- Assets/Weaponry/RifleBoltAction/M1903Springfield.prefab
+- Assets/Weaponry/Revolvers/TripleRegret.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_MX4.prefab
+- Assets/Weaponry/RifleClosedBolt/MAS4956.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKS74U_Magazine2.prefab
+- Assets/Weaponry/RifleClosedBolt/MAS4956_Scope385x.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/VZ58_Magazine_10Round.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/VSS_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/MadsenLAR_Magazine_10rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AK5c_Magazine.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/FRF2_Mag.prefab
+- Assets/Weaponry/Attachements/Other/RailAdapter_G36C.prefab
+- Assets/Weaponry/RifleClosedBolt/ImbelA2.prefab
+- Assets/Weaponry/RifleBoltAction/MRAD.prefab
+- Assets/Weaponry/RifleBoltAction/LeeEnfieldSwedeMod.prefab
+- Assets/Weaponry/RifleClosedBolt/AK5C.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Mk17_Drum.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_H416_30rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKM_Gold_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/M4A1_V2_Shorty.prefab
+- Assets/Weaponry/RifleClosedBolt/QBZ95.prefab
+- Assets/Weaponry/ShotgunBreakAction/Quackenbush1886.prefab
+- Assets/Weaponry/Support/Whizzbanger_Hammer.prefab
+- Assets/Weaponry/RifleClosedBolt/DracoAK.prefab
+- Assets/Weaponry/RifleClosedBolt/RPK.prefab
+- Assets/Weaponry/RifleClosedBolt/VZ58_V.prefab
+- Assets/Weaponry/SMGClosedBolt/APC9.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M14_Magazine_30rnd.prefab
+- Assets/Weaponry/Handguns/LugerCarbine.prefab
+- Assets/Weaponry/RifleClosedBolt/G3A3.prefab
+- Assets/Weaponry/RifleClosedBolt/Johnson1941.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/WA2000_Scope.prefab
+- Assets/Weaponry/Handguns/MauserTrenchCarbine_Long.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/Carcano1891_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/ASVal.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/P762_20rnd_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/APC9_Magazine_Standard.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/MRAD_Mag.prefab
+- Assets/Weaponry/RifleBoltAction/Mosin_M91_30.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/StG44_Magazine.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/AWM_Mag.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Commando552_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/APC45.prefab
+- Assets/Weaponry/RifleClosedBolt/MadsenLAR.prefab
+- Assets/Weaponry/RifleClosedBolt/AR10.prefab
+- Assets/Weaponry/SMGClosedBolt/KrissVector45_Carbine.prefab
+- Assets/Weaponry/LeverAction/Winchester1873 Chopshop.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M107A1_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/HoneyBadger.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/G3SG1_Scope.prefab
+- Assets/Weaponry/Attachements/RedDotsAndHolos/M1Garand_PrototypeOptic.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_Stanag_20rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/DragonuvSVD_Magazine.prefab
+- Assets/Weaponry/RifleBoltAction/M40A1.prefab
+- Assets/Weaponry/RifleClosedBolt/Commando552.prefab
+- Assets/Weaponry/RifleClosedBolt/VSSVintorez.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/MAS4956_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/G11TacMod.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/RPK_Magazine.prefab
+- Assets/Weaponry/RifleBoltAction/M200.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKS74U_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M4A1_V2_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/AKM_Tactical.prefab
+- Assets/Weaponry/RifleClosedBolt/VZ58_P.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/TacticalSOC8400_Mag.prefab
+- Assets/Weaponry/RifleClosedBolt/L85A2.prefab
+- Assets/Weaponry/Support/Whizzbanger.prefab
+- Assets/Weaponry/RifleClosedBolt/SR3M.prefab
+- Assets/Weaponry/RifleBoltAction/LeeEnfieldNo4Mk1.prefab
+- Assets/Weaponry/RifleBoltAction/Mosin_Mini.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/QBZ95_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/StG44.prefab
+- Assets/Weaponry/RifleBoltAction/Scopes/MosinPUScope.prefab
+- Assets/Weaponry/RifleBoltAction/BerthierCarbine.prefab
+- Assets/Weaponry/RifleBoltAction/K98k.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/DeLisleCarbine_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Model81_Magazine.prefab
+- Assets/Weaponry/RifleBoltAction/Scopes/M1903SpringfieldScope.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/Evo3_Magazine_50rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKS74U_Magazine_20rnd.prefab
+- Assets/Weaponry/Attachements/Foregrips/Prefabs/ForeGrip_APC.prefab
+- Assets/Weaponry/RifleClosedBolt/M2Carbine.prefab
+- Assets/Weaponry/Attachements/Mp5/G3_PicatinnyMount.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_SVT40.prefab
+- Assets/Weaponry/RifleBoltAction/TankGewehr.prefab
+- Assets/Weaponry/RifleClosedBolt/SCRPistol.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_Grillfork.prefab
+- Assets/Weaponry/RifleClosedBolt/M16A4_HandleSight.prefab
+- Assets/Weaponry/RifleClosedBolt/AugA1.prefab
+- Assets/Weaponry/RifleClosedBolt/Mk17CQC.prefab
+- Assets/Weaponry/RifleClosedBolt/AR15SBR.prefab
+- Assets/Weaponry/RifleClosedBolt/G11.prefab
+- Assets/Weaponry/RifleClosedBolt/M1600_A3000.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKM_Magazine_Tactical_10rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/AK74N.prefab
+- Assets/Weaponry/RifleClosedBolt/Mk17.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/G36ComboScope.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_M4.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/HoneyBadger_Magazine_20rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/VZ58_Sport.prefab
+- Assets/Weaponry/RifleClosedBolt/DragonuvSVD.prefab
+- Assets/Weaponry/RifleClosedBolt/Malyuk.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AK12_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/H51A1.prefab
+- Assets/Weaponry/RifleClosedBolt/M84Scope_M1Carbine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/MadsenLAR_Magazine_20rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_Stanag_10rnd.prefab
+- Assets/Weaponry/Attachements/Scope/Prefabs/SusatScope.prefab
+- Assets/Weaponry/RifleClosedBolt/Model81.prefab
+- Assets/Weaponry/SMGClosedBolt/Evo3.prefab
+- Assets/Weaponry/RifleBoltAction/Scopes/LeeEnfieldScope.prefab
+- Assets/Weaponry/RifleBoltAction/SV98.prefab
+- Assets/Weaponry/RifleClosedBolt/H51A3.prefab
+- Assets/Weaponry/LeverAction/Winchester1873 Shorty.prefab
+- Assets/Weaponry/RifleBoltAction/LeeEnfieldJungleCarbine.prefab
+- Assets/Weaponry/RifleBoltAction/Scopes/K98kScope.prefab
+- Assets/Weaponry/RifleClosedBolt/G36C.prefab
+- Assets/Weaponry/RifleClosedBolt/HydeLightRifle.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_Mosin.prefab
+- Assets/Weaponry/RifleClosedBolt/H51k.prefab
+- Assets/Weaponry/RifleBoltAction/TacticalSOC8400.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AK74N_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/AR10_Magazine_20rnd.prefab
+- Assets/Weaponry/RifleBoltAction/FRF2.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_rifle.asset
+- Assets/Weaponry/RifleClosedBolt/Magazines/AKM_Magazine_Tactical_20rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Galil.prefab
+- Assets/Weaponry/RifleClosedBolt/M16A1.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Bren806_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M1Shorty16_Magazine_10rnd.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/SV98_Mag.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/SKS_Magazine_20.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/Scout_Mag.prefab
+- Assets/Weaponry/RifleClosedBolt/SportACR.prefab
+- Assets/Weaponry/RifleClosedBolt/MX4.prefab
+- Assets/Weaponry/RifleClosedBolt/Bling15.prefab
+- Assets/Weaponry/RifleClosedBolt/SKSClassic.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M1600_Magazine_15.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_M9.prefab
+- Assets/Weaponry/RifleBoltAction/MosinObrez.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/EM2_Magazine.prefab
+- Assets/Weaponry/SMGClosedBolt/Magazines/APC45_Magazine.prefab
+- Assets/Weaponry/RifleBoltAction/Carcano1891.prefab
+- Assets/Weaponry/RifleBoltAction/Magazines/M200_Mag.prefab
+- Assets/Weaponry/RifleClosedBolt/FNFal.prefab
+- Assets/Weaponry/RifleClosedBolt/H416.prefab
+- Assets/Weaponry/SMGClosedBolt/Phantom9.prefab
+- Assets/Weaponry/RifleClosedBolt/SG550.prefab
+- Assets/Weaponry/RifleClosedBolt/Sport1022.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/Magazine_H416_D60Drum.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/SKS_Magazine_10.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/G36_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/SVT40_PU_Scope.prefab
+- Assets/Weaponry/RifleBoltAction/Sako85_Obrez.prefab
+- Assets/Weaponry/RifleBoltAction/Scout.prefab
+- Assets/Weaponry/RifleClosedBolt/AugA3.prefab
+- Assets/Weaponry/RifleClosedBolt/FNFalTactical.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/G3A3_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/HydeLightRifle_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/SR3M_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/M14_Magazine_20rnd.prefab
+- Assets/Weaponry/RifleClosedBolt/Magazines/FamasF1_Magazine.prefab
+- Assets/Weaponry/RifleClosedBolt/Model8.prefab
+- Assets/Weaponry/RifleClosedBolt/M1Shorty16.prefab
+- Assets/Weaponry/Melee/Tactical/Bayonet_Enfield.prefab
+- Assets/Weaponry/RifleBoltAction/Mosin_M1891.prefab
+Dependencies: []

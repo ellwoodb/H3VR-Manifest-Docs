@@ -1,0 +1,134 @@
+ManifestFileVersion: 0
+CRC: 848565768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1c882b4eafca4f735f01e254f08adf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27c599a6a382afc05b74e24d1b429266
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5b087704be4b9741929d0ff653086bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4494fb8050b3e8a4d89ed858a8e2e6a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a98b0101d4a196c4897646de7c3363e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef604901324c3f84fbdc2ad3438ed9bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9d41613dd1eaf42b28859e01bd9710, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 978a63e289b4ee5489d146df3b4a500b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8cefb5147c3d987458435d288230db16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dccc0d341856dd54aac28974eaaf9202, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162ef8944c64ebb479a963cd9d78b2d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ee891351a66ffa4591295473ddedfe0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d157e085d57ef3341b1ccfc3445a5900, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb393416febbc074e847ed998aa75e3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1df2a0b64b4087347a1507442c7ee27e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6bd38b680985524fa19689b47de3f78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdefead63b6e70c4dbad3969626337eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 411d94572861b294780aca0cfe93d8a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efb492d80869bd54a8c2db0c5d5701af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b77f300ad18e52a4dbcf290d82c6798f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26d683bad6b026c439aa084dd68c489f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 330be86bc3369474592fb05f549f231a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb4ea0cb5962bc4890032bbe020b31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f60b62c5d7dd474b8e4d6367c0d2888, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad210b9c616b5bd40ac5cc7550f5a586, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ded4a3dbec4b5041bf6bd3a74960041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca22284d23646024093d7a9f9be9e132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d13899d6bf41fc4bb18a12e27324b03, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b6a945ea7713634989c4e450d85c0a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9512f8ae21925c447a17c43e041a686a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 538248ce8b69f534c94dce26f5c8f9fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e3af84f6e644534fa3b1516a0e53ed3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+Assets:
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_historical.asset
+- Assets/Weaponry/Flintlock/Caliber69/HeavyPistol_18thCentury/Flintlock_HeavyPistol_18thCentury_Flint.prefab
+- Assets/Weaponry/Flintlock/Caliber69/_Ammo/PaperCartridge_69Cal.prefab
+- Assets/Weaponry/Flintlock/Caliber69/HeavyPistol_18thCentury/Flintlock_HeavyPistol_18thCentury_Ramrod.prefab
+- Assets/Weaponry/RifleBreechloading/SharpsCartridgeConversion.prefab
+- Assets/Weaponry/Flintlock/Caliber69/BrownBess/Flintlock_BrownBess_Ramrod.prefab
+- Assets/Weaponry/Flintlock/BlackPowderFlask.prefab
+- Assets/Weaponry/Flintlock/Caliber69/HeavyPistol_18thCentury.prefab
+- Assets/Weaponry/RifleBreechloading/RollingBlockRifle_Creedmoor.prefab
+- Assets/Weaponry/RifleBreechloading/RollingBlockRifle_8mmLebel.prefab
+- Assets/Weaponry/Flintlock/Caliber69/BrownBess.prefab
+- Assets/Weaponry/Flintlock/MeatHorn.prefab
+- Assets/Weaponry/Flintlock/Caliber69/_Ammo/Shot_69Cal_Ball.prefab
+- Assets/Weaponry/Flintlock/Caliber69/BrownBess/Flintlock_BrownBess_Flint.prefab
+- Assets/Weaponry/Handguns/RollingBlockHandgun.prefab
+Dependencies: []

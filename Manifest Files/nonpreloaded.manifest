@@ -1,0 +1,134 @@
+ManifestFileVersion: 0
+CRC: 3024171694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e7f91009458a548574ddd1741742986
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0abf4451fde67b70e02d949a0dad7abc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47d71880992b34c41a00ec7de976a7fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a9f888080de1384380f0fac9676a5d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dccc0d341856dd54aac28974eaaf9202, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb693544b61dc342b943b4bd324cdfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d350b8b7eeec50d409c5dde9c3dfc45e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4181c3ab01cc65444836945d0cf95229, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb4ea0cb5962bc4890032bbe020b31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca22284d23646024093d7a9f9be9e132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ae74dcd8b26f7741a1c0b8854c165d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chicken.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_D.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_ChickenWing2.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_G.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_Cacti_Saguaro_Large.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Wiener.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_I.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_Gravestone_Square_A.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Cabbage.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/eSlab/ww_eSlab_MFMM_Disc2.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_WagonWheel.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids__nonpreloaded.asset
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_TNTBox.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_J.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_A.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Apple.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_C.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Cucumber.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Carrot.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_F.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_ChickenCooked.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Mushroom.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Orange.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/eSlab/ww_eSlab_MFMM_Disc3.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_ChickenWing1.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_SteakCooked.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/eSlab/ww_eSlab_MFMM_Disc5.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_K.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_E.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_Bottle.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_Gravestone_Round_A.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_B.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Chocolate_H.prefab
+- Assets/VirtualObjects/Targets/Prefab/Exploding/wwExplodingBarrel.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_Cacti_Saguaro_Simple.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Banana.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/eSlab/ww_eSlab_MFMM_Disc4.prefab
+- Assets/GamePlanner/Prefabs/TestingCube.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/eSlab/ww_eSlab_MFMM_Disc1.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_Coffin.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_HootchBottle.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_SteakRaw.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_Decanter.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_CommerativePlate.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_Gravestone_Cross_A.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/eSlab/ww_eSlab_MFMM_Disc6.prefab
+- Assets/Environment/_SceneSpecific/WurstWorld/Prefabs/Targets/ww_Target_ClayPot.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Tomato.prefab
+- Assets/VirtualObjects/Targets/Prefab/FoodTargets/TargetFood_Wiener_Big.prefab
+Dependencies: []

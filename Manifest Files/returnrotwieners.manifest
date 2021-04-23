@@ -1,0 +1,252 @@
+ManifestFileVersion: 0
+CRC: 364832233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13060ee0263405875bb8068b0b61683e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9fa55029aa8da5d1654a08121101c687
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b19c610cc9d1674a98b4098ccba0e67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82ec9530a04b0e844930d3fb883d62a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a704640e0d00d1468d11fdc6d3a7e8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a298fc60087737b45a85137a0eb2b93a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ba1ed11a283f39409814ae0c0b791f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a65de841f226e2c4c9f09ddba8cceaa0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dec5d61df4c8174aa5d68b3f3c46ef6, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c71af113b72204f4fb5afeb39d12dd49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c17e49339eb514a4694e525a079b9742, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dccc0d341856dd54aac28974eaaf9202, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb693544b61dc342b943b4bd324cdfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6668de05f491ad4489801455aa405280, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54329a567c6aef04fa28e7d89eb362ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c0fae96bf4f162469d689c104791595, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa083fc66a05a414cad4593ad31869fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7c19bb70115e3545a9a19d5f330da69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3d322d72d7336e4a80c24a2bee4595f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd896de7c5f1f774189376ba11408fa4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a427f6884ebabe0438f440b339272317, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d704c70927824f6499d9eecbffb6348e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a136909c617eb647b6bebc7b6fec9ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78f5a1394b72f1540ad1326f3fed7e9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c48c25491073c8942be7417538bc5acc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c6a3059acc389e438f3e618417cde80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f6575c96a4519a44a25fded8aa79d07, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bc5669aae65e5540ba48129b38a4414, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a151d44bd672d274896720df2538167e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb4ea0cb5962bc4890032bbe020b31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d271f7ecfb27953498fe0cd4a46b93b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca22284d23646024093d7a9f9be9e132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43a88abd060c31d4a9ccf3adebd37ae3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c674d23e24fe79e4ea8c1102cdd50a73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f06ab5debb314fa47aa55db1a0a99d79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b8b750f51a2a5c4699a2dfb28b30226, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a6e433f19bfc61448cb92a92a599ba0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/Coffeecan_Coffee.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/HumerusOfSthumourless.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Large/Banger_Large_Remote.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MeatCores/MeatCore_7_Burny.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Containers/RotrwContainer_CardboardBox_Large.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Plants/Plant_Rotrw_PricklyPickle.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Plants/Plant_Rotrw_MustyWillow.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Meatpackerator.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/GoldWieners/GoldenWeinerFigure_1.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/GoldWieners/GoldenWeinerFigure_2.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Deactivated_4_OldTown.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MeatCores/MeatCore_4_Weighty.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/LumberJack_Receipt.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Pies/Baitpie_5_SaltyWarper.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Fruit/CraftableFruit_DeadlyEggplant.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Deactivated_1_LakeSide.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Pieomizer.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Containers/RotrwContainer_WoodBox.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/ExplodingRotwienerSplode.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/TinCan_v0.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Medium/Banger_Medium_Impact.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Jerrycan.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Activated_4_OldTown.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Deactivated_3_NorthPass.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/LumberJack_Letter.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Large/Banger_Large_Prox.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MeatCores/MeatCore_5_Juicy.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Grilling/CharcoalGrill.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MeatCores/MeatCore_6_Shiny.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MeatCores/MeatCore_2_Spikey.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Activated_1_LakeSide.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/GoldWieners/GoldenWeinerFigure_3.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Activated_0_Downtown.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Small/Banger_Small_Prox.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/BangerJunk_Eggtimer.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Small/Banger_Small_Impact.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Fruit/CraftableFruit_PricklyPickle.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Containers/RotrwContainer_CardboardBox_Medium.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Deactivated_2_Mines.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Fruit/CraftableFruit_KetchupLeaf.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids__returnrotwieners.asset
+- Assets/VirtualObjects/Crafting/Prefabs/Plants/Plant_Rotrw_BlueRaspberry.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Medium/Banger_Medium_Remote.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Medium/Banger_Medium_Timed.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Large/Banger_Large_Impact.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MorseCodeGuide.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/BangerJunk_Fishfinder.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Small/Banger_Small_Remote.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Activated_2_Mines.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Pies/Baitpie_4_TartArmored.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Small/Banger_Small_Timed.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/Coffeecan_ChowVanilla.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Pies/Baitpie_2_SpicyBlut.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/LumberJackScream.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MeatCores/MeatCore_1_Moldy.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/Coffeecan_ChowStrawberry.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Activated_3_NorthPass.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/CharcoalBag.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Pies/Baitpie_3_SourSpitter.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Containers/RotrwContainer_Cooler.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Reloadamatic_Gold.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Radio/FMAmplifier_Deactivated_0_Downtown.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Medium/Banger_Medium_Prox.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/LumberJack_Package.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/ResemmblerCore.prefab
+- Assets/Environment/_SceneSpecific/ReturnOfTheRotwieners/Props/Prefabs/GarryTheLawnWiener.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Grilling/CharcoalBriquette.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Containers/RotrwContainer_GunCase_Small.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/WhizzBangADinger.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MeatCores/MeatCore_3_Zippy.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Containers/RotrwContainer_GunCase.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/Bucket.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Banger/Large/Banger_Large_Timed.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/IncrimPhoto4_Lumberjack.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Fruit/CraftableFruit_BlueRaspberry.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Fruit/CraftableFruit_MustyWillow.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Grilling/LighterFluidCan.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Plants/Plant_Rotrw_KetchupLeaf.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/TinCan_v2.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/BangerJunk_Radio.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/MeatCores/MeatCore_0_Tasty.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Containers/RotrwContainer_CardboardBox_Small.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/Coffeecan_ChowChocolate.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Reloadamatic.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BuyBuddy.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Containers/RotrwContainer_Locker.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Plants/Plant_Rotrw_DeadlyEggplant.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/Pies/Baitpie_1_Sweet_Attractor.prefab
+- Assets/VirtualObjects/Crafting/Prefabs/BangerJunk/TinCan_v1.prefab
+Dependencies: []

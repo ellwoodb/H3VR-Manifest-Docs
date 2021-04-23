@@ -1,0 +1,399 @@
+ManifestFileVersion: 0
+CRC: 1032040235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0da27f1111e75ad8bac2fb1f06815bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1f22b8e15c67ccff54c0c995dbbb622c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a7b600081cb3554aa9f1b0e41f0a086, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5092ec00c3c37e848944b7b7e5e0418d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 305b1d205929eb840bf29904bcbfa6ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef4b463057b9f9842902d51e9cda1187, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a442eb30f4babb94c93f95b8a80dff26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4db3c450680fd4c809d5ad90a2f24e5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6bfac907695c0747bd83802fe3bc6ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 295f2b3121e9f2a4db23a731001acd3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f4ec6178e189b4f9f21af0c0bbf6cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed123f619b1cf5d4dbb4879246fb60bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f32d781b76ae444588664d28fa57d50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0921b881f7d041c44847ca4c4c6e44fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7526a252b23496b41a5ccc17b9ff09e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f531a820bd8d314588e0b2bdc0ac7d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6009f692b9c0cc043913aec2217f59c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85bc8a234ba0354e82d72ce5e8ea445, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3527e2f2580e7844ea64280293348540, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aa19813aaf9e79439e165fecb9694cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea675a13437826e40a80b9a9e6decef8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17d86b13ee32f5e4fa6e3cb793810d5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 288bd083ed35f2946a7a4008e4c5c1a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 264ba3834a8220f48aefb4017b0cf368, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e7ed4830ada235439ca0c0c43f7f44a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1170d93b2bf9554d9d860967b71788f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43fb6df36db55a24584a5ca55eb825c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dccc0d341856dd54aac28974eaaf9202, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb693544b61dc342b943b4bd324cdfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162ef8944c64ebb479a963cd9d78b2d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 437519b45126a08479f66fa24a79ac86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddb83ec4da00c42428e33d4f5c90da2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cad09150c9892c43b9e1862e9b26ab4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9cc52f15d4523ed4d9f13181a14858fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ee891351a66ffa4591295473ddedfe0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef0d3255903388b4198c94ed8906bdf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51b21c5557da00948ae52ee8b369c3ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17c15c85b043f154096e00d3552f2cb3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a98c2c5ad502354c9783968fbaf0ccd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c1cf8e5a3a94aa4392a0eeba1f4def0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e056590682b3a1f4f86fc4d2f0b69595, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c8d3086eff080d428259ccf1943864a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbc706867a32fca4ca17060054ed7cb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55dbd7b66d5e97c4da0c3cb29700d771, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa083fc66a05a414cad4593ad31869fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543d5c072b63b4a47b687aafe4c29c86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8edb8637fafe06e4785113d74492fc4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3f195f782303f64085a0e2ae94cc838, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a3d4808652a1fc4aa924d800e9cb0e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d60aae08205ba8046aadf8fd70dedfa2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e75f0488506514449c54fe73a615053, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 508fe168486eeb64e8bfdb0dac471a41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cab98684da778f4f89c23770106206b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6c02a857bc22b40b381a71c6da0c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efb492d80869bd54a8c2db0c5d5701af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4c228f8ba1fcdd4eb4710e5795fbe7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69a02e09afbad0a4490e579da60878ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 247cbf099e588614e957f9a4e1a3993c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68656e19b26f21949ae32cb7437c0d2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2a30679768f650429155b46cb6bd81a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af337a89d3df4ef4fb98fca9281d4927, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0ad14c99101ec942b704a16dc26c8da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0594d0f9efbc26245a6d4e0efa31b14e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b77f300ad18e52a4dbcf290d82c6798f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2300374a4ab2b7e4b88006f175a349cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2b5876a41e32ad4686133d3322ca799, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 437f9e8a88f1a71468f2e7fd2012f55d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bc5669aae65e5540ba48129b38a4414, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40ce67ba369dfed4887ccd26d24c97f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cf4f7ca225ccf54991810fe3b44c76e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec55edda9c8e41543983ddae99dde1d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df01848bf2860fb4ca4d5f61ba8da61f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 612538bbe690af44a912589938e93e83, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4720aecb8842c5647b4f6d2414a3821e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bfa34fb697797641b4170ebda9a16ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb4ea0cb5962bc4890032bbe020b31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c59c805ce5ed889429608b627647e3a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b06d865cf633c0d4dbeee4949670fcc9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08db3c7c6f8a85343adc3cac51987c6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d597a28cde98883428ce100099ff6325, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a2ab58c94c921c48b22d6479d556465, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b58049cdd9387c4d8dfce21b19cebde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7ce54dce68d2cf4c9e6bf0081a68c9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74f33a1d7e6f5de4f84204223b32b3bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c396ba1d82028b34c91e84bf0ad391f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9635c32da3c96de4da6b56ef37780a20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c055c53dfe6767a4083f6f75dead7398, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ded4a3dbec4b5041bf6bd3a74960041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca22284d23646024093d7a9f9be9e132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be6e9c4d525278441a812c4231a1c05c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbe6c75d0eb67bf4b9d5a4ffba20b921, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e212adc7e0d154ba0a334a17c7a09b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43a88abd060c31d4a9ccf3adebd37ae3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd8ed9cd8491a3344a324e5275e15c5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1581591ec4d0f66489accf5ffe7b7a71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bf1d15ea7876734b953200082e53a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b6a945ea7713634989c4e450d85c0a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9512f8ae21925c447a17c43e041a686a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff75a6fe7d238504db5b6485e000af69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7262d1f57c74054d8d253a996e9ff1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfbc405fc00cd1e4881536d7cd08e4c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81c2ca5f6ce2a6a4eb7f9fad3bcdff34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978c87f026221146952d611da205cee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a5a4af7f64bba0e41a0f06276ac697a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 192090bfab50cd949be72ab9f100286f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f8948cfef5132e4faaad67c0fa0e23c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_SyringeGun.prefab
+- Assets/Weaponry/MF2/Cartridges/18x50mmPackawhallop/Ammo_18x50mmPackawhallop_Barbie.prefab
+- Assets/Weaponry/MF2/_Firearm/7_Medic/MF2_me_medigun.prefab
+- Assets/Weaponry/MF2/_Attachments/MF_suppressor_Can.prefab
+- Assets/Weaponry/MF2/_Firearm/8_Sniper/MF2_sniper_BushrangersBoon.prefab
+- Assets/Weaponry/MF2/_Buildables/Dispenser_Level1_Red.prefab
+- Assets/Weaponry/MF2/_Firearm/7_Medic/MF2_me_syringegun_magazine.prefab
+- Assets/AnvilCache/anvil_shader_holder_assets_resources_objectids_weaponry_mf2.asset
+- Assets/Weaponry/MF2/Cartridges/7Gauge/Ammo_7Gauge.prefab
+- Assets/Weaponry/MF2/_Firearm/3_Pyro/MF2_py_flamethrowertank.prefab
+- Assets/Weaponry/MF2/Cartridges/Stickyshell/Ammo_StickyShell_RobbieBurns.prefab
+- Assets/Weaponry/MF2/_Melee/melee_sniper_machete.prefab
+- Assets/Weaponry/MF2/_Melee/melee_engineer_wrench.prefab
+- Assets/Weaponry/MF2/Cartridges/52AMP/Ammo_52AMP_FMJ.prefab
+- Assets/Weaponry/MF2/_Melee/melee_medic_saw.prefab
+- Assets/Weaponry/MF2/_Clips/MF2_StripperClip_10_5x35mmDutch.prefab
+- Assets/Weaponry/MF2/Cartridges/13Gauge/Ammo_13Gauge_Blooper.prefab
+- Assets/Weaponry/MF2/_Melee/melee_pyro_axe.prefab
+- Assets/Weaponry/MF2/_Firearm/0_Generic/MF2_generic_AllRounder_Magazine.prefab
+- Assets/Weaponry/MF2/_Melee/melee_spy_balisong.prefab
+- Assets/Weaponry/MF2/Cartridges/12x32mmDingowhomper/Ammo_12x32mmDingowhomper_FunnelSpider.prefab
+- Assets/Weaponry/MF2/Cartridges/11mmMannchevski/Ammo_11mmMannChevski_FMJ.prefab
+- Assets/Weaponry/MF2/Cartridges/366UltraMagnum/Ammo_366UltraMagnum_Salute.prefab
+- Assets/Weaponry/MF2/_Firearm/9_Spy/MF2_spy_Petite_Liaison.prefab
+- Assets/Weaponry/MF2/_Firearm/2_Soldier/MF2_so_rocketlauncher.prefab
+- Assets/Weaponry/MF2/Cartridges/10_5x35mmDutch/Ammo_10_5x35mmDutch_FMJ.prefab
+- Assets/Weaponry/MF2/_Buildables/Sentry_Lvl1_Red.prefab
+- Assets/Weaponry/MF2/_Buildables/Dispenser_Level1_Blue.prefab
+- Assets/Weaponry/MF2/_Speedloaders/MF2_Speedloader_366_Retort.prefab
+- Assets/Weaponry/MF2/_Buildables/Dispenser_Level1_Neutral.prefab
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_Flamethrower.prefab
+- Assets/Weaponry/MF2/_Grenades/Detpack/MF_Grenade_Demopack.prefab
+- Assets/Weaponry/MF2/Cartridges/18x50mmPackawhallop/Ammo_18x50mmPackawhallop_FMJ.prefab
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_GrenadeLauncher.prefab
+- Assets/Weaponry/MF2/_Melee/melee_demoman_bottle.prefab
+- Assets/Weaponry/MF2/_Spawners/AnimalNoiseMaker_DennyTheDispenser.prefab
+- Assets/Weaponry/MF2/Cartridges/12x32mmDingowhomper/Ammo_12x32mmDingowhomper_FMJ.prefab
+- Assets/Weaponry/MF2/Cartridges/366UltraMagnum/Ammo_366UltraMagnum_FMJ.prefab
+- Assets/Weaponry/MF2/_Speedloaders/MF2_Speedloader_366_Salut.prefab
+- Assets/Weaponry/MF2/Cartridges/RPGMF/RockIt/RPGMF_RockIt.prefab
+- Assets/Weaponry/MF2/Cartridges/18x50mmPackawhallop/Ammo_18x50mmPackawhallop_Drongo.prefab
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_RocketLauncher.prefab
+- Assets/Weaponry/MF2/Cartridges/RPGMF/Classic/RPGMF_Classic.prefab
+- Assets/Weaponry/MF2/_Utility/Sapper.prefab
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_Shotgun.prefab
+- Assets/Weaponry/MF2/Cartridges/10_5x35mmDutch/Ammo_10_5x35mmDutch_Flechette.prefab
+- Assets/Weaponry/MF2/Cartridges/RPGMF/CannedMeat/RPGMF_CannedMeat.prefab
+- Assets/Weaponry/MF2/_Spawners/AnimalNoiseMaker_SaphireTheSentryGun.prefab
+- Assets/Weaponry/MF2/Cartridges/Stickyshell/Ammo_StickyShell_RustyNail.prefab
+- Assets/Weaponry/MF2/Cartridges/366UltraMagnum/Ammo_366UltraMagnum_Retort.prefab
+- Assets/Weaponry/MF2/_Firearm/8_Sniper/MF2_sniper_SMG.prefab
+- Assets/Weaponry/MF2/_Melee/melee_scout_bat.prefab
+- Assets/Weaponry/MF2/_Clips/MF2_StripperClip_Stickyshell.prefab
+- Assets/Weaponry/MF2/Cartridges/6mmMannlecker/Ammo_6mmMannlecker.prefab
+- Assets/Weaponry/MF2/_Firearm/0_Generic/MF2_generic_Shotgun.prefab
+- Assets/Weaponry/MF2/_Spawners/AnimalNoiseMaker_ScarlettTheSentryGun.prefab
+- Assets/Weaponry/MF2/_Firearm/8_Sniper/MF2_sniper_TheLastBit.prefab
+- Assets/Weaponry/MF2/_Firearm/0_Generic/MF2_generic_BigBoomer.prefab
+- Assets/Weaponry/MF2/Cartridges/52AMP/Ammo_52AMP_JHP.prefab
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_Minigun.prefab
+- Assets/Weaponry/MF2/_Melee/melee_soldier_shovel.prefab
+- Assets/Weaponry/MF2/_Firearm/5_Heavy/MF2_he_minigun.prefab
+- Assets/Weaponry/MF2/Cartridges/Syringe/Ammo_Syringe.prefab
+- Assets/Weaponry/MF2/Cartridges/42mmDemonade/Ammo_42mmDemonade.prefab
+- Assets/Weaponry/MF2/_Grenades/MF_Grenade_Spy_Smoke.prefab
+- Assets/Weaponry/MF2/_Firearm/8_Sniper/MF2_sniper_SMG_drum.prefab
+- Assets/Weaponry/MF2/_Firearm/5_Heavy/MF2_he_minigun_Box.prefab
+- Assets/Weaponry/MF2/Cartridges/18x50mmPackawhallop/Ammo_18x50mmPackawhallop_Gobsmacker.prefab
+- Assets/Weaponry/MF2/_Firearm/4_Demo/MF2_dm_stickylauncher.prefab
+- Assets/Weaponry/MF2/Cartridges/2Gauge/Ammo_2Gauge.prefab
+- Assets/Weaponry/MF2/_Attachments/MF_suppressor_Revolver.prefab
+- Assets/Weaponry/MF2/_Firearm/7_Medic/MF2_me_syringegun.prefab
+- Assets/Weaponry/MF2/_Buildables/Sentry_Lvl1_Blue.prefab
+- Assets/Weaponry/MF2/Cartridges/Stickyshell/Ammo_StickyShell_FragE.prefab
+- Assets/Weaponry/MF2/Cartridges/Stickyshell/Ammo_StickyShell_HighlandFling.prefab
+- Assets/Weaponry/MF2/_Attachments/MF_suppressor_Shotgun.prefab
+- Assets/Weaponry/MF2/_Firearm/0_Generic/MF2_generic_SoundCheck_Magazine.prefab
+- Assets/Weaponry/MF2/Cartridges/13Gauge/Ammo_13Gauge_Slugger.prefab
+- Assets/Weaponry/MF2/Cartridges/RPGMF/RocketPop/RPGMF_RocketPop.prefab
+- Assets/Weaponry/MF2/_Attachments/MF_suppressor_Pistol.prefab
+- Assets/Weaponry/MF2/_Firearm/1_Scout/MF2_scout_Scattergun.prefab
+- Assets/Weaponry/MF2/_Firearm/0_Generic/MF2_generic_SoundCheck.prefab
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_SniperRifle.prefab
+- Assets/Weaponry/MF2/_Grenades/MF_Grenade_Flash.prefab
+- Assets/Weaponry/MF2/_Utility/MF2_CloakingWatch.prefab
+- Assets/Weaponry/MF2/Cartridges/RPGMF/ToTheMoon/RPGMF_ToTheMoon.prefab
+- Assets/Weaponry/MF2/_Spawners/AnimalNoiseMaker_DellaTheDispenser.prefab
+- Assets/Weaponry/MF2/_Firearm/8_Sniper/MF2_sniper_SniperRifle.prefab
+- Assets/Weaponry/MF2/_Speedloaders/MF2_Speedloader_366_FMJ.prefab
+- Assets/Weaponry/MF2/Cartridges/12x32mmDingowhomper/Ammo_12x32mmDingowhomper_Bushfire.prefab
+- Assets/Weaponry/MF2/_Firearm/8_Sniper/MF2_sniper_SMG_magazine.prefab
+- Assets/Weaponry/MF2/_Firearm/4_Demo/MF2_dm_LongShot.prefab
+- Assets/Weaponry/MF2/_Firearm/8_Sniper/MF2_sniper_SnagSanger.prefab
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_Revolver.prefab
+- Assets/Weaponry/MF2/_Firearm/4_Demo/MF2_dm_grenadelauncher.prefab
+- Assets/Weaponry/MF2/_Firearm/0_Generic/MF2_generic_Pistol.prefab
+- Assets/Weaponry/MF2/Cartridges/366UltraMagnum/Ammo_366UltraMagnum_Debuff.prefab
+- Assets/Weaponry/MF2/Cartridges/13Gauge/Ammo_13Gauge_Buck.prefab
+- Assets/Weaponry/MF2/_Firearm/9_Spy/MF2_spy_Revolver.prefab
+- Assets/Weaponry/MF2/_Speedloaders/MF2_Speedloader_366_Debuff.prefab
+- Assets/Weaponry/MF2/Cartridges/13Gauge/Ammo_13Gauge_Bleeder.prefab
+- Assets/Weaponry/MF2/_Attachments/MF_suppressor_Generic1.prefab
+- Assets/Weaponry/MF2/_Grenades/MF_Grenade_Soda.prefab
+- Assets/Weaponry/MF2/_Firearm/1_Scout/MF2_scout_Duckhunter.prefab
+- Assets/Weaponry/MF2/_Firearm/0_Generic/MF2_generic_AllRounder.prefab
+- Assets/Weaponry/MF2/_Firearm/0_Generic/MF2_generic_Pistol_Magazine.prefab
+- Assets/Weaponry/MF2/_Grenades/MF_Grenade_Soldier_Frag.prefab
+- Assets/Weaponry/MF2/_Attachments/MF_suppressor_SMG.prefab
+- Assets/Sosig/Sosiggun/MF/Sosiggun_MF2_Scattergun.prefab
+- Assets/Weaponry/MF2/_Spawners/AnimalNoiseMaker_DuffyTheDispenser.prefab
+- Assets/Weaponry/MF2/Cartridges/13Gauge/Ammo_13Gauge_Moonshot.prefab
+- Assets/Weaponry/MF2/_Buildables/Sentry_Lvl1_Neutral.prefab
+- Assets/Weaponry/MF2/_Firearm/3_Pyro/MF2_py_flamethrower.prefab
+- Assets/Weaponry/MF2/Cartridges/RPGMF/WrongAmmo/RPGMF_WrongAmmo.prefab
+- Assets/Weaponry/MF2/Cartridges/10_5x35mmDutch/Ammo_10_5x35mmDutch_Inferno.prefab
+- Assets/Weaponry/MF2/_Spawners/AnimalNoiseMaker_SlateTheSentryGun.prefab
+Dependencies: []
